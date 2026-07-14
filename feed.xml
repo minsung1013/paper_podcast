@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>논문을 파헤치는 시간</title>
+    <link>https://minsung1013.github.io/paper_podcast</link>
+    <language>ko</language>
+    <lastBuildDate>Tue, 14 Jul 2026 13:28:38 -0000</lastBuildDate>
+    <description>전문가 클로드와 학생 용식·선우정아가 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</description>
+    <itunes:author>클로드 · 용식 · 선우정아</itunes:author>
+    <itunes:summary>전문가 클로드와 학생 용식·선우정아가 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</itunes:summary>
+    <itunes:category text="Science"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    <image><url>https://minsung1013.github.io/paper_podcast/cover_new.png</url><title>논문을 파헤치는 시간</title><link>https://minsung1013.github.io/paper_podcast</link></image>
+    <item>
+      <title>EP1. AlphaFold 3</title>
+      <description>논문 「Accurate structure prediction of biomolecular interactions with AlphaFold 3 (알파폴드 3로 생체분자 상호작용 구조를 정확히 예측하기), Nature 630, 493–500 (2024)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://minsung1013.github.io/paper_podcast/AlphaFold3/AlphaFold3_ep1.mp3" length="22314708" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-AlphaFold3-ep1</guid>
+      <pubDate>Tue, 14 Jul 2026 13:24:23 -0000</pubDate>
+      <itunes:duration>00:22:12</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+  </channel>
+</rss>
