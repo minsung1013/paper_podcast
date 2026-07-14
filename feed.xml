@@ -5,7 +5,7 @@
     <title>논문을 파헤치는 시간</title>
     <link>https://minsung1013.github.io/paper_podcast</link>
     <language>ko</language>
-    <lastBuildDate>Tue, 14 Jul 2026 15:16:22 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 15:33:47 -0000</lastBuildDate>
     <description>전문가 클로드와 학생 용식·선우정아가 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</description>
     <itunes:author>클로드 · 용식 · 선우정아</itunes:author>
     <itunes:summary>전문가 클로드와 학생 용식·선우정아가 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</itunes:summary>
@@ -13,6 +13,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     <image><url>https://minsung1013.github.io/paper_podcast/cover_new.png</url><title>논문을 파헤치는 시간</title><link>https://minsung1013.github.io/paper_podcast</link></image>
+    <item>
+      <title>EP4. ESMFold</title>
+      <description>논문 「Evolutionary-scale prediction of atomic level protein structure with a language model (언어 모델을 이용한 진화 규모의 원자 수준 단백질 구조 예측 — ESM-2 / ESMFold)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://minsung1013.github.io/paper_podcast/ESMFold/ESMFold_ep1.mp3" length="21498585" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-ESMFold-ep4</guid>
+      <pubDate>Tue, 14 Jul 2026 15:33:32 -0000</pubDate>
+      <itunes:duration>00:21:21</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
     <item>
       <title>EP3. ColabFold</title>
       <description>논문 「ColabFold: making protein folding accessible to all (콜랩폴드: 단백질 접힘 예측을 모두에게)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
