@@ -5,7 +5,7 @@
     <title>논문을 파헤치는 시간</title>
     <link>https://minsung1013.github.io/paper_podcast</link>
     <language>ko</language>
-    <lastBuildDate>Wed, 15 Jul 2026 14:48:50 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 23:17:09 -0000</lastBuildDate>
     <description>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</description>
     <itunes:author>클로드 · 용식</itunes:author>
     <itunes:summary>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</itunes:summary>
@@ -13,6 +13,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     <image><url>https://minsung1013.github.io/paper_podcast/cover_new.png</url><title>논문을 파헤치는 시간</title><link>https://minsung1013.github.io/paper_podcast</link></image>
+    <item>
+      <title>EP9. BANKSY</title>
+      <description>논문 「BANKSY unifies cell typing and tissue domain segmentation for scalable spatial omics data analysis (BANKSY: 세포 유형 분류와 조직 도메인 분할을 하나로 통합하는 확장가능한 공간 오믹스 분석 알고리즘)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://minsung1013.github.io/paper_podcast/BANKSY/BANKSY_ep1.mp3" length="67570272" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-BANKSY-ep9</guid>
+      <pubDate>Wed, 15 Jul 2026 23:17:08 -0000</pubDate>
+      <itunes:duration>01:09:21</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
     <item>
       <title>EP8. SpaGCN</title>
       <description>논문 「SpaGCN: Integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network (SpaGCN: 유전자 발현·공간 위치·조직 이미지를 통합해 그래프 합성곱 신경망으로 공간 도메인과 공간 가변 유전자를 찾는 방법)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
