@@ -5,7 +5,7 @@
     <title>논문을 파헤치는 시간</title>
     <link>https://minsung1013.github.io/paper_podcast</link>
     <language>ko</language>
-    <lastBuildDate>Wed, 15 Jul 2026 13:58:26 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 14:48:50 -0000</lastBuildDate>
     <description>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</description>
     <itunes:author>클로드 · 용식</itunes:author>
     <itunes:summary>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</itunes:summary>
@@ -14,11 +14,29 @@
     <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     <image><url>https://minsung1013.github.io/paper_podcast/cover_new.png</url><title>논문을 파헤치는 시간</title><link>https://minsung1013.github.io/paper_podcast</link></image>
     <item>
+      <title>EP8. SpaGCN</title>
+      <description>논문 「SpaGCN: Integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network (SpaGCN: 유전자 발현·공간 위치·조직 이미지를 통합해 그래프 합성곱 신경망으로 공간 도메인과 공간 가변 유전자를 찾는 방법)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://minsung1013.github.io/paper_podcast/SpaGCN/SpaGCN_ep1.mp3" length="66459426" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-SpaGCN-ep8</guid>
+      <pubDate>Wed, 15 Jul 2026 14:48:50 -0000</pubDate>
+      <itunes:duration>01:08:11</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>EP7. CellNEST</title>
+      <description>논문 「CellNEST reveals cell–cell relay networks using attention mechanisms on spatial transcriptomics (공간 전사체 데이터에 어텐션 메커니즘을 적용해 세포–세포 릴레이 통신망을 밝혀내는 CellNEST)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://minsung1013.github.io/paper_podcast/CellNEST/CellNEST_ep1.mp3" length="62932170" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-CellNEST-ep7</guid>
+      <pubDate>Wed, 15 Jul 2026 14:48:50 -0000</pubDate>
+      <itunes:duration>01:04:31</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
       <title>EP6. COMMOT</title>
       <description>논문 「Screening cell–cell communication in spatial transcriptomics via collective optimal transport (COMMOT: 집단 최적수송으로 공간 전사체에서 세포 간 소통을 스크리닝하기)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
       <enclosure url="https://minsung1013.github.io/paper_podcast/COMMOT/COMMOT_ep1.mp3" length="64840539" type="audio/mpeg"/>
       <guid isPermaLink="false">paperpodcast-COMMOT-ep6</guid>
-      <pubDate>Wed, 15 Jul 2026 13:49:32 -0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 14:19:05 -0000</pubDate>
       <itunes:duration>01:06:30</itunes:duration>
       <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     </item>
@@ -27,7 +45,7 @@
       <description>논문 「Generalized Biomolecular Modeling and Design with RoseTTAFold All-Atom (RoseTTAFold All-Atom을 이용한 일반화된 생체분자 모델링 및 설계)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
       <enclosure url="https://minsung1013.github.io/paper_podcast/RoseTTAFoldAllAtom/RoseTTAFoldAllAtom_ep1.mp3" length="21143284" type="audio/mpeg"/>
       <guid isPermaLink="false">paperpodcast-RoseTTAFoldAllAtom-ep5</guid>
-      <pubDate>Tue, 14 Jul 2026 15:51:15 -0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 14:19:05 -0000</pubDate>
       <itunes:duration>00:20:59</itunes:duration>
       <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     </item>
@@ -36,7 +54,7 @@
       <description>논문 「Evolutionary-scale prediction of atomic level protein structure with a language model (언어 모델을 이용한 진화 규모의 원자 수준 단백질 구조 예측 — ESM-2 / ESMFold)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
       <enclosure url="https://minsung1013.github.io/paper_podcast/ESMFold/ESMFold_ep1.mp3" length="21498585" type="audio/mpeg"/>
       <guid isPermaLink="false">paperpodcast-ESMFold-ep4</guid>
-      <pubDate>Tue, 14 Jul 2026 15:33:32 -0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 14:19:05 -0000</pubDate>
       <itunes:duration>00:21:21</itunes:duration>
       <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     </item>
@@ -45,7 +63,7 @@
       <description>논문 「ColabFold: making protein folding accessible to all (콜랩폴드: 단백질 접힘 예측을 모두에게)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
       <enclosure url="https://minsung1013.github.io/paper_podcast/ColabFold/ColabFold_ep1.mp3" length="19685396" type="audio/mpeg"/>
       <guid isPermaLink="false">paperpodcast-ColabFold-ep3</guid>
-      <pubDate>Tue, 14 Jul 2026 15:16:07 -0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 14:19:05 -0000</pubDate>
       <itunes:duration>00:19:28</itunes:duration>
       <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     </item>
@@ -54,7 +72,7 @@
       <description>논문 「Boltz-1: Democratizing Biomolecular Interaction Modeling (볼츠-1: 생체분자 상호작용 모델링의 대중화)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
       <enclosure url="https://minsung1013.github.io/paper_podcast/Boltz1/Boltz1_ep1.mp3" length="20889546" type="audio/mpeg"/>
       <guid isPermaLink="false">paperpodcast-Boltz1-ep2</guid>
-      <pubDate>Tue, 14 Jul 2026 14:56:02 -0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 14:19:05 -0000</pubDate>
       <itunes:duration>00:20:43</itunes:duration>
       <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     </item>
@@ -63,7 +81,7 @@
       <description>논문 「Accurate structure prediction of biomolecular interactions with AlphaFold 3 (알파폴드 3로 생체분자 상호작용 구조를 정확히 예측하기), Nature 630, 493–500 (2024)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
       <enclosure url="https://minsung1013.github.io/paper_podcast/AlphaFold3/AlphaFold3_ep1.mp3" length="22314708" type="audio/mpeg"/>
       <guid isPermaLink="false">paperpodcast-AlphaFold3-ep1</guid>
-      <pubDate>Tue, 14 Jul 2026 13:24:23 -0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 14:19:05 -0000</pubDate>
       <itunes:duration>00:22:12</itunes:duration>
       <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     </item>
