@@ -5,14 +5,23 @@
     <title>논문을 파헤치는 시간</title>
     <link>https://minsung1013.github.io/paper_podcast</link>
     <language>ko</language>
-    <lastBuildDate>Tue, 14 Jul 2026 15:51:28 -0000</lastBuildDate>
-    <description>전문가 클로드와 학생 용식·선우정아가 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</description>
-    <itunes:author>클로드 · 용식 · 선우정아</itunes:author>
-    <itunes:summary>전문가 클로드와 학생 용식·선우정아가 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</itunes:summary>
+    <lastBuildDate>Wed, 15 Jul 2026 13:58:26 -0000</lastBuildDate>
+    <description>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</description>
+    <itunes:author>클로드 · 용식</itunes:author>
+    <itunes:summary>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</itunes:summary>
     <itunes:category text="Science"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     <image><url>https://minsung1013.github.io/paper_podcast/cover_new.png</url><title>논문을 파헤치는 시간</title><link>https://minsung1013.github.io/paper_podcast</link></image>
+    <item>
+      <title>EP6. COMMOT</title>
+      <description>논문 「Screening cell–cell communication in spatial transcriptomics via collective optimal transport (COMMOT: 집단 최적수송으로 공간 전사체에서 세포 간 소통을 스크리닝하기)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://minsung1013.github.io/paper_podcast/COMMOT/COMMOT_ep1.mp3" length="64840539" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-COMMOT-ep6</guid>
+      <pubDate>Wed, 15 Jul 2026 13:49:32 -0000</pubDate>
+      <itunes:duration>01:06:30</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
     <item>
       <title>EP5. RoseTTAFoldAllAtom</title>
       <description>논문 「Generalized Biomolecular Modeling and Design with RoseTTAFold All-Atom (RoseTTAFold All-Atom을 이용한 일반화된 생체분자 모델링 및 설계)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
