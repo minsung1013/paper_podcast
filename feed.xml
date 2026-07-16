@@ -5,7 +5,7 @@
     <title>논문을 파헤치는 시간</title>
     <link>https://minsung1013.github.io/paper_podcast</link>
     <language>ko</language>
-    <lastBuildDate>Thu, 16 Jul 2026 06:37:15 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 12:23:53 -0000</lastBuildDate>
     <description>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</description>
     <itunes:author>클로드 · 용식</itunes:author>
     <itunes:summary>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</itunes:summary>
@@ -14,11 +14,74 @@
     <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     <image><url>https://minsung1013.github.io/paper_podcast/cover_new.png</url><title>논문을 파헤치는 시간</title><link>https://minsung1013.github.io/paper_podcast</link></image>
     <item>
+      <title>EP11. SpatialGlue</title>
+      <description>논문 「Deciphering spatial domains from spatial multi-omics with SpatialGlue (SpatialGlue로 공간 멀티오믹스에서 공간 도메인 해독하기)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://minsung1013.github.io/paper_podcast/SpatialGlue/SpatialGlue_ep1.mp3" length="67161418" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-SpatialGlue-ep11</guid>
+      <pubDate>Thu, 16 Jul 2026 11:16:40 -0000</pubDate>
+      <itunes:duration>01:08:55</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>EP10. nnSVG</title>
+      <description>논문 「nnSVG for the scalable identification of spatially variable genes using nearest-neighbor Gaussian processes (최근접 이웃 가우시안 과정을 이용한, 공간적으로 변하는 유전자의 확장 가능한 식별 방법 nnSVG)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://minsung1013.github.io/paper_podcast/nnSVG/nnSVG_ep1.mp3" length="70382302" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-nnSVG-ep10</guid>
+      <pubDate>Thu, 16 Jul 2026 11:15:40 -0000</pubDate>
+      <itunes:duration>01:12:16</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>EP9. SPARKX</title>
+      <description>논문 「SPARK-X: non-parametric modeling enables scalable and robust detection of spatial expression patterns for large spatial transcriptomic studies (SPARK-X: 비모수 모델링으로 대규모 공간 전사체 연구에서 공간 발현 패턴을 확장 가능하고 견고하게 탐지하기)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://minsung1013.github.io/paper_podcast/SPARKX/SPARKX_ep1.mp3" length="72666920" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-SPARKX-ep9</guid>
+      <pubDate>Thu, 16 Jul 2026 11:14:40 -0000</pubDate>
+      <itunes:duration>01:14:39</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>EP8. DeconvCCC</title>
+      <description>논문 「Deconvoluting single-cell transcriptomics reveals cellular programs regulated by cell-cell communication in colorectal cancer (단일세포 전사체를 분해해 대장암에서 세포-세포 소통이 조절하는 세포 프로그램을 밝히다)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://minsung1013.github.io/paper_podcast/DeconvCCC/DeconvCCC_ep1.mp3" length="75072653" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-DeconvCCC-ep8</guid>
+      <pubDate>Thu, 16 Jul 2026 11:13:40 -0000</pubDate>
+      <itunes:duration>01:17:09</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>EP7. CAFmetabolic</title>
+      <description>논문 「Single-cell and spatial-resolved profiling reveals cancer-associated fibroblast heterogeneity in colorectal cancer metabolic subtypes (단일세포·공간전사체 프로파일링으로 밝힌 대장암 대사 아형별 암연관 섬유아세포 이질성)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://minsung1013.github.io/paper_podcast/CAFmetabolic/CAFmetabolic_ep1.mp3" length="65695329" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-CAFmetabolic-ep7</guid>
+      <pubDate>Thu, 16 Jul 2026 11:12:40 -0000</pubDate>
+      <itunes:duration>01:07:23</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>EP6. THBS 2CAF</title>
+      <description>논문 「THBS2-producing matrix CAFs promote colorectal cancer progression and link to poor prognosis via the CD47-MAPK axis (THBS2를 분비하는 기질형 CAF가 CD47-MAPK 축을 통해 대장암 진행을 촉진하고 나쁜 예후와 연결된다)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://minsung1013.github.io/paper_podcast/THBS2CAF/THBS2CAF_ep1.mp3" length="64881548" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-THBS2CAF-ep6</guid>
+      <pubDate>Thu, 16 Jul 2026 11:11:40 -0000</pubDate>
+      <itunes:duration>01:06:33</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>EP5. NicheNet</title>
+      <description>논문 「NicheNet: modeling intercellular communication by linking ligands to target genes (니치넷: 리간드를 표적 유전자에 연결해 세포 간 소통을 모델링하기)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://minsung1013.github.io/paper_podcast/NicheNet/NicheNet_ep1.mp3" length="69775363" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-NicheNet-ep5</guid>
+      <pubDate>Thu, 16 Jul 2026 11:10:40 -0000</pubDate>
+      <itunes:duration>01:11:38</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
       <title>EP4. BANKSY</title>
       <description>논문 「BANKSY unifies cell typing and tissue domain segmentation for scalable spatial omics data analysis (BANKSY: 세포 유형 분류와 조직 도메인 분할을 하나로 통합하는 확장가능한 공간 오믹스 분석 알고리즘)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
       <enclosure url="https://minsung1013.github.io/paper_podcast/BANKSY/BANKSY_ep1.mp3" length="67570272" type="audio/mpeg"/>
       <guid isPermaLink="false">paperpodcast-BANKSY-ep4</guid>
-      <pubDate>Wed, 15 Jul 2026 23:18:00 -0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 11:09:40 -0000</pubDate>
       <itunes:duration>01:09:21</itunes:duration>
       <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     </item>
@@ -27,7 +90,7 @@
       <description>논문 「SpaGCN: Integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network (SpaGCN: 유전자 발현·공간 위치·조직 이미지를 통합해 그래프 합성곱 신경망으로 공간 도메인과 공간 가변 유전자를 찾는 방법)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
       <enclosure url="https://minsung1013.github.io/paper_podcast/SpaGCN/SpaGCN_ep1.mp3" length="66459426" type="audio/mpeg"/>
       <guid isPermaLink="false">paperpodcast-SpaGCN-ep3</guid>
-      <pubDate>Wed, 15 Jul 2026 15:00:39 -0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 11:08:40 -0000</pubDate>
       <itunes:duration>01:08:11</itunes:duration>
       <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     </item>
@@ -36,7 +99,7 @@
       <description>논문 「CellNEST reveals cell–cell relay networks using attention mechanisms on spatial transcriptomics (공간 전사체 데이터에 어텐션 메커니즘을 적용해 세포–세포 릴레이 통신망을 밝혀내는 CellNEST)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
       <enclosure url="https://minsung1013.github.io/paper_podcast/CellNEST/CellNEST_ep1.mp3" length="62932170" type="audio/mpeg"/>
       <guid isPermaLink="false">paperpodcast-CellNEST-ep2</guid>
-      <pubDate>Wed, 15 Jul 2026 15:00:38 -0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 11:07:40 -0000</pubDate>
       <itunes:duration>01:04:31</itunes:duration>
       <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     </item>
@@ -45,7 +108,7 @@
       <description>논문 「Screening cell–cell communication in spatial transcriptomics via collective optimal transport (COMMOT: 집단 최적수송으로 공간 전사체에서 세포 간 소통을 스크리닝하기)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
       <enclosure url="https://minsung1013.github.io/paper_podcast/COMMOT/COMMOT_ep1.mp3" length="64840539" type="audio/mpeg"/>
       <guid isPermaLink="false">paperpodcast-COMMOT-ep1</guid>
-      <pubDate>Wed, 15 Jul 2026 15:00:37 -0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 11:06:40 -0000</pubDate>
       <itunes:duration>01:06:30</itunes:duration>
       <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     </item>
