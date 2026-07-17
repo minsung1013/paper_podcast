@@ -5,7 +5,7 @@
     <title>논문을 파헤치는 시간</title>
     <link>https://minsung1013.github.io/paper_podcast</link>
     <language>ko</language>
-    <lastBuildDate>Fri, 17 Jul 2026 13:32:22 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 14:11:39 -0000</lastBuildDate>
     <description>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</description>
     <itunes:author>클로드 · 용식</itunes:author>
     <itunes:summary>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</itunes:summary>
@@ -14,128 +14,128 @@
     <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     <image><url>https://minsung1013.github.io/paper_podcast/cover_new.png</url><title>논문을 파헤치는 시간</title><link>https://minsung1013.github.io/paper_podcast</link></image>
     <item>
-      <title>EP28. ProteinBERT</title>
-      <description>논문 「ProteinBERT: a universal deep-learning model of protein sequence and function (ProteinBERT: 단백질 서열과 기능을 위한 범용 딥러닝 모델)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://minsung1013.github.io/paper_podcast/ProteinBERT/ProteinBERT_ep1.mp3" length="70757546" type="audio/mpeg"/>
-      <guid isPermaLink="false">paperpodcast-ProteinBERT-ep28</guid>
-      <pubDate>Fri, 17 Jul 2026 13:13:40 -0000</pubDate>
-      <itunes:duration>01:12:40</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
-    </item>
-    <item>
-      <title>EP27. ESM 3</title>
-      <description>논문 「Simulating 500 million years of evolution with a language model (언어 모델로 5억 년의 진화를 시뮬레이션하다)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://minsung1013.github.io/paper_podcast/ESM3/ESM3_ep1.mp3" length="70988233" type="audio/mpeg"/>
-      <guid isPermaLink="false">paperpodcast-ESM3-ep27</guid>
-      <pubDate>Fri, 17 Jul 2026 13:12:54 -0000</pubDate>
-      <itunes:duration>01:12:54</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
-    </item>
-    <item>
-      <title>EP26. ESM 1b</title>
-      <description>논문 「Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences (2억 5천만 개 단백질 서열에 대한 비지도 학습을 확장하자 생물학적 구조와 기능이 저절로 드러난다)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://minsung1013.github.io/paper_podcast/ESM1b/ESM1b_ep1.mp3" length="70387325" type="audio/mpeg"/>
-      <guid isPermaLink="false">paperpodcast-ESM1b-ep26</guid>
-      <pubDate>Fri, 17 Jul 2026 13:11:26 -0000</pubDate>
-      <itunes:duration>01:12:17</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
-    </item>
-    <item>
-      <title>EP25. ProGen 2</title>
-      <description>논문 「Large language models generate functional protein sequences across diverse families (거대 언어 모델이 다양한 단백질 패밀리에 걸쳐 기능하는 단백질 서열을 생성하다) — 모델명 ProGen」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://minsung1013.github.io/paper_podcast/ProGen2/ProGen2_ep1.mp3" length="68493943" type="audio/mpeg"/>
-      <guid isPermaLink="false">paperpodcast-ProGen2-ep25</guid>
-      <pubDate>Fri, 17 Jul 2026 13:09:42 -0000</pubDate>
-      <itunes:duration>01:10:18</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
-    </item>
-    <item>
-      <title>EP24. ProteinMPNN</title>
-      <description>논문 「Robust deep learning based protein sequence design using ProteinMPNN (ProteinMPNN을 이용한 견고한 딥러닝 기반 단백질 서열 설계)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://minsung1013.github.io/paper_podcast/ProteinMPNN/ProteinMPNN_ep1.mp3" length="75431577" type="audio/mpeg"/>
-      <guid isPermaLink="false">paperpodcast-ProteinMPNN-ep24</guid>
-      <pubDate>Fri, 17 Jul 2026 13:08:57 -0000</pubDate>
-      <itunes:duration>01:17:32</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
-    </item>
-    <item>
-      <title>EP23. RFdiffusion</title>
-      <description>논문 「Broadly applicable and accurate protein design by integrating structure prediction networks and diffusion generative models (구조 예측 신경망과 확산 생성 모델을 통합한, 폭넓게 적용 가능하고 정확한 단백질 설계 — RFdiffusion)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://minsung1013.github.io/paper_podcast/RFdiffusion/RFdiffusion_ep1.mp3" length="76087469" type="audio/mpeg"/>
-      <guid isPermaLink="false">paperpodcast-RFdiffusion-ep23</guid>
-      <pubDate>Fri, 17 Jul 2026 13:08:08 -0000</pubDate>
-      <itunes:duration>01:18:13</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
-    </item>
-    <item>
-      <title>EP22. RoseTTAFold</title>
+      <title>[protein_design/구조예측]RoseTTAFold</title>
       <description>논문 「Accurate prediction of protein structures and interactions using a three-track neural network (3-트랙 신경망을 이용한 단백질 구조와 상호작용의 정확한 예측)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
       <enclosure url="https://minsung1013.github.io/paper_podcast/RoseTTAFold/RoseTTAFold_ep1.mp3" length="73734279" type="audio/mpeg"/>
-      <guid isPermaLink="false">paperpodcast-RoseTTAFold-ep22</guid>
-      <pubDate>Fri, 17 Jul 2026 13:07:19 -0000</pubDate>
+      <guid isPermaLink="false">paperpodcast-RoseTTAFold-ep28</guid>
+      <pubDate>Fri, 17 Jul 2026 13:57:27 -0000</pubDate>
       <itunes:duration>01:15:46</itunes:duration>
       <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     </item>
     <item>
-      <title>EP21. Protenix</title>
-      <description>논문 「Protenix — Advancing Structure Prediction Through a Comprehensive AlphaFold3 Reproduction (프로테닉스 — 완전한 AlphaFold3 재현을 통한 구조 예측의 발전)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://minsung1013.github.io/paper_podcast/Protenix/Protenix_ep1.mp3" length="75913513" type="audio/mpeg"/>
-      <guid isPermaLink="false">paperpodcast-Protenix-ep21</guid>
-      <pubDate>Fri, 17 Jul 2026 13:06:32 -0000</pubDate>
-      <itunes:duration>01:18:02</itunes:duration>
+      <title>[protein_design/단백질설계]RFdiffusion</title>
+      <description>논문 「Broadly applicable and accurate protein design by integrating structure prediction networks and diffusion generative models (구조 예측 신경망과 확산 생성 모델을 통합한, 폭넓게 적용 가능하고 정확한 단백질 설계 — RFdiffusion)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://minsung1013.github.io/paper_podcast/RFdiffusion/RFdiffusion_ep1.mp3" length="76087469" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-RFdiffusion-ep27</guid>
+      <pubDate>Fri, 17 Jul 2026 13:57:26 -0000</pubDate>
+      <itunes:duration>01:18:13</itunes:duration>
       <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     </item>
     <item>
-      <title>EP20. RFAA</title>
+      <title>[protein_design/구조예측]RFAA</title>
       <description>논문 「Generalized Biomolecular Modeling and Design with RoseTTAFold All-Atom (RoseTTAFold All-Atom을 이용한 일반화된 생체분자 모델링과 설계)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
       <enclosure url="https://minsung1013.github.io/paper_podcast/RFAA/RFAA_ep1.mp3" length="73891821" type="audio/mpeg"/>
-      <guid isPermaLink="false">paperpodcast-RFAA-ep20</guid>
-      <pubDate>Fri, 17 Jul 2026 13:05:43 -0000</pubDate>
+      <guid isPermaLink="false">paperpodcast-RFAA-ep26</guid>
+      <pubDate>Fri, 17 Jul 2026 13:57:26 -0000</pubDate>
       <itunes:duration>01:15:56</itunes:duration>
       <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     </item>
     <item>
-      <title>EP19. ESMFold</title>
-      <description>논문 「Evolutionary-scale prediction of atomic level protein structure with a language model (진화적 규모의 언어 모델로 원자 수준 단백질 구조 예측하기 — ESM-2/ESMFold)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://minsung1013.github.io/paper_podcast/ESMFold/ESMFold_ep1.mp3" length="71239486" type="audio/mpeg"/>
-      <guid isPermaLink="false">paperpodcast-ESMFold-ep19</guid>
-      <pubDate>Fri, 17 Jul 2026 13:04:55 -0000</pubDate>
-      <itunes:duration>01:13:10</itunes:duration>
+      <title>[protein_design/구조예측]Protenix</title>
+      <description>논문 「Protenix — Advancing Structure Prediction Through a Comprehensive AlphaFold3 Reproduction (프로테닉스 — 완전한 AlphaFold3 재현을 통한 구조 예측의 발전)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://minsung1013.github.io/paper_podcast/Protenix/Protenix_ep1.mp3" length="75913513" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-Protenix-ep25</guid>
+      <pubDate>Fri, 17 Jul 2026 13:57:26 -0000</pubDate>
+      <itunes:duration>01:18:02</itunes:duration>
       <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     </item>
     <item>
-      <title>EP18. ColabFold</title>
-      <description>논문 「ColabFold: 단백질 폴딩을 모두에게 접근 가능하게 만들기 (ColabFold: making protein folding accessible to all)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://minsung1013.github.io/paper_podcast/ColabFold/ColabFold_ep1.mp3" length="73177922" type="audio/mpeg"/>
-      <guid isPermaLink="false">paperpodcast-ColabFold-ep18</guid>
-      <pubDate>Fri, 17 Jul 2026 13:04:06 -0000</pubDate>
-      <itunes:duration>01:15:11</itunes:duration>
+      <title>[protein_design/단백질설계]ProteinMPNN</title>
+      <description>논문 「Robust deep learning based protein sequence design using ProteinMPNN (ProteinMPNN을 이용한 견고한 딥러닝 기반 단백질 서열 설계)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://minsung1013.github.io/paper_podcast/ProteinMPNN/ProteinMPNN_ep1.mp3" length="75431577" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-ProteinMPNN-ep24</guid>
+      <pubDate>Fri, 17 Jul 2026 13:57:26 -0000</pubDate>
+      <itunes:duration>01:17:32</itunes:duration>
       <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     </item>
     <item>
-      <title>EP17. Boltz 1</title>
-      <description>논문 「Boltz-1: Democratizing Biomolecular Interaction Modeling (볼츠-1: 생체분자 상호작용 모델링의 민주화)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://minsung1013.github.io/paper_podcast/Boltz1/Boltz1_ep1.mp3" length="70766288" type="audio/mpeg"/>
-      <guid isPermaLink="false">paperpodcast-Boltz1-ep17</guid>
-      <pubDate>Fri, 17 Jul 2026 13:03:17 -0000</pubDate>
+      <title>[protein_design/파운데이션모델]ProteinBERT</title>
+      <description>논문 「ProteinBERT: a universal deep-learning model of protein sequence and function (ProteinBERT: 단백질 서열과 기능을 위한 범용 딥러닝 모델)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://minsung1013.github.io/paper_podcast/ProteinBERT/ProteinBERT_ep1.mp3" length="70757546" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-ProteinBERT-ep23</guid>
+      <pubDate>Fri, 17 Jul 2026 13:57:25 -0000</pubDate>
       <itunes:duration>01:12:40</itunes:duration>
       <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     </item>
     <item>
-      <title>EP16. AlphaFold 3</title>
+      <title>[protein_design/단백질설계]ProGen2</title>
+      <description>논문 「Large language models generate functional protein sequences across diverse families (거대 언어 모델이 다양한 단백질 패밀리에 걸쳐 기능하는 단백질 서열을 생성하다) — 모델명 ProGen」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://minsung1013.github.io/paper_podcast/ProGen2/ProGen2_ep1.mp3" length="68493943" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-ProGen2-ep22</guid>
+      <pubDate>Fri, 17 Jul 2026 13:57:25 -0000</pubDate>
+      <itunes:duration>01:10:18</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>[protein_design/구조예측]ESMFold</title>
+      <description>논문 「Evolutionary-scale prediction of atomic level protein structure with a language model (진화적 규모의 언어 모델로 원자 수준 단백질 구조 예측하기 — ESM-2/ESMFold)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://minsung1013.github.io/paper_podcast/ESMFold/ESMFold_ep1.mp3" length="71239486" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-ESMFold-ep21</guid>
+      <pubDate>Fri, 17 Jul 2026 13:57:25 -0000</pubDate>
+      <itunes:duration>01:13:10</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>[protein_design/파운데이션모델]ESM3</title>
+      <description>논문 「Simulating 500 million years of evolution with a language model (언어 모델로 5억 년의 진화를 시뮬레이션하다)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://minsung1013.github.io/paper_podcast/ESM3/ESM3_ep1.mp3" length="70988233" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-ESM3-ep20</guid>
+      <pubDate>Fri, 17 Jul 2026 13:57:25 -0000</pubDate>
+      <itunes:duration>01:12:54</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>[protein_design/파운데이션모델]ESM1b</title>
+      <description>논문 「Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences (2억 5천만 개 단백질 서열에 대한 비지도 학습을 확장하자 생물학적 구조와 기능이 저절로 드러난다)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://minsung1013.github.io/paper_podcast/ESM1b/ESM1b_ep1.mp3" length="70387325" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-ESM1b-ep19</guid>
+      <pubDate>Fri, 17 Jul 2026 13:57:24 -0000</pubDate>
+      <itunes:duration>01:12:17</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>[protein_design/구조예측]ColabFold</title>
+      <description>논문 「ColabFold: 단백질 폴딩을 모두에게 접근 가능하게 만들기 (ColabFold: making protein folding accessible to all)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://minsung1013.github.io/paper_podcast/ColabFold/ColabFold_ep1.mp3" length="73177922" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-ColabFold-ep18</guid>
+      <pubDate>Fri, 17 Jul 2026 13:57:24 -0000</pubDate>
+      <itunes:duration>01:15:11</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>[protein_design/구조예측]Boltz1</title>
+      <description>논문 「Boltz-1: Democratizing Biomolecular Interaction Modeling (볼츠-1: 생체분자 상호작용 모델링의 민주화)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://minsung1013.github.io/paper_podcast/Boltz1/Boltz1_ep1.mp3" length="70766288" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-Boltz1-ep17</guid>
+      <pubDate>Fri, 17 Jul 2026 13:57:24 -0000</pubDate>
+      <itunes:duration>01:12:40</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>[protein_design/구조예측]AlphaFold3</title>
       <description>논문 「Accurate structure prediction of biomolecular interactions with AlphaFold 3 (알파폴드 3로 생체분자 상호작용 구조를 정확히 예측하기)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
       <enclosure url="https://minsung1013.github.io/paper_podcast/AlphaFold3/AlphaFold3_ep1.mp3" length="63568650" type="audio/mpeg"/>
       <guid isPermaLink="false">paperpodcast-AlphaFold3-ep16</guid>
-      <pubDate>Fri, 17 Jul 2026 13:02:31 -0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 13:57:24 -0000</pubDate>
       <itunes:duration>01:05:11</itunes:duration>
       <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     </item>
     <item>
-      <title>EP15. AlphaFold 2</title>
+      <title>[protein_design/구조예측]AlphaFold2</title>
       <description>논문 「Highly accurate protein structure prediction with AlphaFold (AlphaFold을 이용한 고정확도 단백질 구조 예측)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
       <enclosure url="https://minsung1013.github.io/paper_podcast/AlphaFold2/AlphaFold2_ep1.mp3" length="75648891" type="audio/mpeg"/>
       <guid isPermaLink="false">paperpodcast-AlphaFold2-ep15</guid>
-      <pubDate>Fri, 17 Jul 2026 13:01:48 -0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 13:57:24 -0000</pubDate>
       <itunes:duration>01:17:46</itunes:duration>
       <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     </item>
