@@ -5,7 +5,7 @@
     <title>논문을 파헤치는 시간</title>
     <link>https://minsung1013.github.io/paper_podcast</link>
     <language>ko</language>
-    <lastBuildDate>Sun, 19 Jul 2026 10:06:45 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 15:01:09 -0000</lastBuildDate>
     <description>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</description>
     <itunes:author>클로드 · 용식</itunes:author>
     <itunes:summary>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</itunes:summary>
@@ -13,6 +13,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     <image><url>https://minsung1013.github.io/paper_podcast/cover_new.png</url><title>논문을 파헤치는 시간</title><link>https://minsung1013.github.io/paper_podcast</link></image>
+    <item>
+      <title>[방법론요약] 공간전사체 타겟 발굴 핵심 방법론 9선 (쉬운 요약 낭독)</title>
+      <description>공간전사체 신규 타겟 발굴 핵심 방법론 9선(디컨볼루션·공간도메인·세포간상호작용·공간가변유전자)을 배경지식 없이도 이해할 수 있게 쉬운 말로 낭독한 요약 에피소드.</description>
+      <enclosure url="https://minsung1013.github.io/paper_podcast/SpatialMethods9/SpatialMethods9_ep1.mp3" length="51288513" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-SpatialMethods9-ep1</guid>
+      <pubDate>Tue, 21 Jul 2026 15:01:09 -0000</pubDate>
+      <itunes:duration>00:52:23</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
     <item>
       <title>[target_discovery/G2]BANKSY</title>
       <description>논문 「BANKSY unifies cell typing and tissue domain segmentation for scalable spatial omics data analysis (BANKSY: 세포 유형 분류와 조직 도메인 분할을 하나로 통합하는 확장가능한 공간 오믹스 분석 알고리즘)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
