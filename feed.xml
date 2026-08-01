@@ -5,7 +5,7 @@
     <title>논문을 파헤치는 시간</title>
     <link>https://minsung1013.github.io/paper_podcast</link>
     <language>ko</language>
-    <lastBuildDate>Sat, 01 Aug 2026 00:18:57 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 00:25:29 -0000</lastBuildDate>
     <description>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</description>
     <itunes:author>클로드 · 용식</itunes:author>
     <itunes:summary>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</itunes:summary>
@@ -13,6 +13,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     <image><url>https://minsung1013.github.io/paper_podcast/cover_new.png</url><title>논문을 파헤치는 시간</title><link>https://minsung1013.github.io/paper_podcast</link></image>
+    <item>
+      <title>[solo] CellNEST — 공간전사체 어텐션으로 세포–세포 릴레이 네트워크 탐지</title>
+      <description>논문 「CellNEST reveals cell–cell relay networks using attention mechanisms on spatial transcriptomics (어텐션 메커니즘으로 공간전사체에서 세포–세포 릴레이 네트워크를 밝히는 CellNEST)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/CellNEST_solo_ep1.mp3" length="101294120" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-CellNEST_solo-ep47</guid>
+      <pubDate>Sat, 01 Aug 2026 00:24:27 -0000</pubDate>
+      <itunes:duration>01:44:28</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
     <item>
       <title>[solo] CellChat — 세포-세포 소통 추론·분석 R 패키지</title>
       <description>논문 「Inference and analysis of cell-cell communication using CellChat (CellChat를 이용한 세포-세포 소통의 추론과 분석)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
