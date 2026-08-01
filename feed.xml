@@ -5,7 +5,7 @@
     <title>논문을 파헤치는 시간</title>
     <link>https://minsung1013.github.io/paper_podcast</link>
     <language>ko</language>
-    <lastBuildDate>Sat, 01 Aug 2026 09:37:20 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 15:14:10 -0000</lastBuildDate>
     <description>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</description>
     <itunes:author>클로드 · 용식</itunes:author>
     <itunes:summary>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</itunes:summary>
@@ -13,6 +13,96 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     <image><url>https://minsung1013.github.io/paper_podcast/cover_new.png</url><title>논문을 파헤치는 시간</title><link>https://minsung1013.github.io/paper_podcast</link></image>
+    <item>
+      <title>[solo] 단일세포·공간전사체 머신러닝 응용 발전사 (리뷰)</title>
+      <description>논문 「Progress in the Application of Machine Learning in the Field of Single-Cell and Spatial Transcriptomics (단일세포·공간전사체 분야에서의 머신러닝 응용 발전사)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/MLspatialProgress_solo_ep1.mp3" length="64066466" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-MLspatialProgress_solo-ep65</guid>
+      <pubDate>Sat, 01 Aug 2026 15:13:11 -0000</pubDate>
+      <itunes:duration>01:05:42</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>[solo] 멀티모달 공간오믹스: 데이터 획득에서 계산적 통합까지 (리뷰)</title>
+      <description>논문 「Multimodal spatial omics: From data acquisition to computational integration (멀티모달 공간오믹스: 데이터 획득에서 계산적 통합까지)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/MultimodalSpatial_solo_ep1.mp3" length="57853894" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-MultimodalSpatial_solo-ep64</guid>
+      <pubDate>Sat, 01 Aug 2026 15:11:03 -0000</pubDate>
+      <itunes:duration>00:59:13</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>[solo] H&amp;E 중심 공간오믹스 계산진화: 통합·매핑·파운데이션 모델 (리뷰)</title>
+      <description>논문 「Histopathology-centered computational evolution of spatial omics: integration, mapping, and foundation models (조직병리학을 중심으로 본 공간오믹스 계산방법의 진화: 통합, 매핑, 그리고 파운데이션 모델)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/SpatialFoundation_solo_ep1.mp3" length="57369979" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-SpatialFoundation_solo-ep63</guid>
+      <pubDate>Sat, 01 Aug 2026 14:53:23 -0000</pubDate>
+      <itunes:duration>00:58:43</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>[solo] 단일세포·공간전사체 딥러닝: 데이터 과학 관점 진보와 도전 (리뷰)</title>
+      <description>논문 「Deep learning in single-cell and spatial transcriptomics data analysis: advances and challenges from a data science perspective (데이터 과학 관점에서 본 단일세포·공간전사체 데이터 분석의 딥러닝: 진보와 도전)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/DLspatial_solo_ep1.mp3" length="60747094" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-DLspatial_solo-ep62</guid>
+      <pubDate>Sat, 01 Aug 2026 14:46:33 -0000</pubDate>
+      <itunes:duration>01:02:14</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>[solo] 공간전사체×AI 두경부 병리 스코핑 리뷰 (구강암 전환예측)</title>
+      <description>논문 「공간전사체와 인공지능: 두경부 병리학의 새로운 응용에 대한 스코핑 리뷰 (Spatial transcriptomics and artificial intelligence: a scoping review of emerging applications in head and neck pathology)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/HNspatialAI_solo_ep1.mp3" length="63484709" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-HNspatialAI_solo-ep61</guid>
+      <pubDate>Sat, 01 Aug 2026 14:33:17 -0000</pubDate>
+      <itunes:duration>01:05:05</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>[solo] 공간 오믹스를 위한 차세대 ML·DL: 모델 선택 프레임워크 (리뷰)</title>
+      <description>논문 「Toward next-generation machine learning and deep learning for spatial omics (공간 오믹스를 위한 차세대 머신러닝·딥러닝을 향하여)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/NextGenMLspatial_solo_ep1.mp3" length="61537365" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-NextGenMLspatial_solo-ep60</guid>
+      <pubDate>Sat, 01 Aug 2026 14:20:25 -0000</pubDate>
+      <itunes:duration>01:03:04</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>[solo] 대장암 이질성의 AI 기반 단일세포·공간전사체 정밀 탐색 (리뷰)</title>
+      <description>논문 「Multidimensional decoding of colorectal cancer heterogeneity: Artificial intelligence-enabled precision exploration of single-cell and spatial transcriptomics (대장암 이질성의 다차원 해독: 단일세포·공간전사체를 향한 인공지능 기반 정밀 탐색)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/CRCspatialAI_solo_ep1.mp3" length="58937783" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-CRCspatialAI_solo-ep59</guid>
+      <pubDate>Sat, 01 Aug 2026 12:15:38 -0000</pubDate>
+      <itunes:duration>01:00:21</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>[solo] AI 공간전사체로 구강암(OSCC) 종양미세환경 지도·치료 개인화 (리뷰)</title>
+      <description>논문 「Artificial Intelligence–driven spatial transcriptomics in OSCC: Mapping the tumor microenvironment and personalizing therapy (인공지능 기반 공간전사체학으로 구강편평세포암의 종양미세환경 지도를 그리고 치료를 개인화하다)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/OSCCspatialAI_solo_ep1.mp3" length="57527994" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-OSCCspatialAI_solo-ep58</guid>
+      <pubDate>Sat, 01 Aug 2026 12:14:38 -0000</pubDate>
+      <itunes:duration>00:58:53</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>[solo] 암 공간전사체를 위한 AI: YY1·RKIP 중심 (리뷰)</title>
+      <description>논문 「Advances in artificial intelligence for spatial transcriptomics in cancer: Special focus on Yin Yang 1 (YY1) and Raf kinase inhibitor protein (RKIP) (암에서의 공간전사체를 위한 인공지능의 진보: YY1과 RKIP를 중심으로)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/AIcancerYY1_solo_ep1.mp3" length="58720828" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-AIcancerYY1_solo-ep57</guid>
+      <pubDate>Sat, 01 Aug 2026 11:57:31 -0000</pubDate>
+      <itunes:duration>01:00:08</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>[solo] 공간 오믹스 × AI로 암 연구 혁신 (리뷰)</title>
+      <description>논문 「Integrative spatial omics and artificial intelligence: transforming cancer research with omics data and AI (공간 오믹스와 인공지능의 통합: 오믹스 데이터와 AI로 암 연구를 혁신하다)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/SpatialAIcancer_solo_ep1.mp3" length="68389863" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-SpatialAIcancer_solo-ep56</guid>
+      <pubDate>Sat, 01 Aug 2026 11:55:13 -0000</pubDate>
+      <itunes:duration>01:10:12</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
     <item>
       <title>[solo] SOAR — 공간전사체 통합 플랫폼(3461샘플·13종): 통찰·세포소통·신약발굴</title>
       <description>논문 「SOAR elucidates biological insights and empowers drug discovery through spatial transcriptomics (SOAR: 공간전사체를 통해 생물학적 통찰을 밝히고 신약 발굴을 뒷받침하는 통합 플랫폼)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
