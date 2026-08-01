@@ -5,7 +5,7 @@
     <title>논문을 파헤치는 시간</title>
     <link>https://minsung1013.github.io/paper_podcast</link>
     <language>ko</language>
-    <lastBuildDate>Sat, 01 Aug 2026 15:14:10 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 20:16:45 -0000</lastBuildDate>
     <description>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</description>
     <itunes:author>클로드 · 용식</itunes:author>
     <itunes:summary>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</itunes:summary>
@@ -13,6 +13,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     <image><url>https://minsung1013.github.io/paper_podcast/cover_new.png</url><title>논문을 파헤치는 시간</title><link>https://minsung1013.github.io/paper_podcast</link></image>
+    <item>
+      <title>[solo] 공간전사체 디컨볼루션 계산방법 종합 리뷰 (픽셀→세포유형)</title>
+      <description>논문 「From pixels to cell types: a comprehensive review of computational methods for spatial transcriptomics deconvolution (픽셀에서 세포 유형으로: 공간전사체 디컨볼루션 계산 방법에 대한 종합 리뷰)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/STdeconvReview_solo_ep1.mp3" length="56306259" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-STdeconvReview_solo-ep67</guid>
+      <pubDate>Sat, 01 Aug 2026 20:16:20 -0000</pubDate>
+      <itunes:duration>00:57:37</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>[solo] 공간가변유전자(SVG) 검출 34종 방법 범주화 (리뷰)</title>
+      <description>논문 「34개 계산 방법으로 공간해상 전사체 데이터에서 공간가변유전자(SVG)를 검출하는 방법들의 범주화 (Categorization of 34 computational methods to detect spatially variable genes from spatially resolved transcriptomics data)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/SVGmethods_solo_ep1.mp3" length="63894759" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-SVGmethods_solo-ep66</guid>
+      <pubDate>Sat, 01 Aug 2026 20:14:26 -0000</pubDate>
+      <itunes:duration>01:05:31</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
     <item>
       <title>[solo] 단일세포·공간전사체 머신러닝 응용 발전사 (리뷰)</title>
       <description>논문 「Progress in the Application of Machine Learning in the Field of Single-Cell and Spatial Transcriptomics (단일세포·공간전사체 분야에서의 머신러닝 응용 발전사)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
