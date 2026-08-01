@@ -5,7 +5,7 @@
     <title>논문을 파헤치는 시간</title>
     <link>https://minsung1013.github.io/paper_podcast</link>
     <language>ko</language>
-    <lastBuildDate>Sat, 01 Aug 2026 09:08:36 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 09:37:20 -0000</lastBuildDate>
     <description>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</description>
     <itunes:author>클로드 · 용식</itunes:author>
     <itunes:summary>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</itunes:summary>
@@ -13,6 +13,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     <image><url>https://minsung1013.github.io/paper_podcast/cover_new.png</url><title>논문을 파헤치는 시간</title><link>https://minsung1013.github.io/paper_podcast</link></image>
+    <item>
+      <title>[solo] SOAR — 공간전사체 통합 플랫폼(3461샘플·13종): 통찰·세포소통·신약발굴</title>
+      <description>논문 「SOAR elucidates biological insights and empowers drug discovery through spatial transcriptomics (SOAR: 공간전사체를 통해 생물학적 통찰을 밝히고 신약 발굴을 뒷받침하는 통합 플랫폼)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/SOAR_solo_ep1.mp3" length="58224263" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-SOAR_solo-ep55</guid>
+      <pubDate>Sat, 01 Aug 2026 09:36:04 -0000</pubDate>
+      <itunes:duration>00:59:36</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
     <item>
       <title>[solo] STAGATE — 적응형 그래프 어텐션 오토인코더로 공간전사체 공간 도메인 해독</title>
       <description>논문 「Deciphering spatial domains from spatially resolved transcriptomics with an adaptive graph attention auto-encoder (적응형 그래프 어텐션 오토인코더로 공간전사체에서 공간 도메인 해독하기 — STAGATE)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
