@@ -1,0 +1,1 @@
+[solo] 딥러닝 단백질 구조예측·설계 — 노벨상 4대 모델(AlphaFold·RoseTTAFold·RFDiffusion·ProteinMPNN) 리뷰
