@@ -1,0 +1,1 @@
+[solo] Protenix — AlphaFold3 완전 재현 오픈소스(학습코드·데이터까지 공개) (ByteDance)

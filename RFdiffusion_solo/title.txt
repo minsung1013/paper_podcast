@@ -1,0 +1,1 @@
+[solo] RFdiffusion — 확산 생성모델로 de novo 단백질 설계 (RoseTTAFold 통합, 결합체 100배↑)

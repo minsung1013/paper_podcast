@@ -1,0 +1,1 @@
+[solo] Boltz-1 — AlphaFold3급 성능의 완전 오픈소스 복합체 구조 예측 (MIT 라이선스)

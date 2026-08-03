@@ -1,0 +1,1 @@
+[solo] ProteinMPNN — 딥러닝 역접힘 서열설계(회복률 52.4%·1.2초), 실패설계 실험 rescue (Baker lab)

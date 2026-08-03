@@ -1,0 +1,1 @@
+[solo] RoseTTAFold All-Atom — 단백질·핵산·저분자·공유변형 통합 모델링과 RFdiffusionAA 설계

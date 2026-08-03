@@ -1,0 +1,1 @@
+[solo] RoseTTAFold — 3-트랙 신경망으로 단백질 구조·상호작용·복합체 예측 (Science 2021)

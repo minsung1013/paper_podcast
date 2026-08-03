@@ -5,7 +5,7 @@
     <title>논문을 파헤치는 시간</title>
     <link>https://minsung1013.github.io/paper_podcast</link>
     <language>ko</language>
-    <lastBuildDate>Sun, 02 Aug 2026 01:22:52 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 00:31:24 -0000</lastBuildDate>
     <description>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</description>
     <itunes:author>클로드 · 용식</itunes:author>
     <itunes:summary>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</itunes:summary>
@@ -13,6 +13,132 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     <image><url>https://minsung1013.github.io/paper_podcast/cover_new.png</url><title>논문을 파헤치는 시간</title><link>https://minsung1013.github.io/paper_podcast</link></image>
+    <item>
+      <title>[solo] ProteinBERT — 서열+GO 기능주석 동시 사전학습, 1600만 파라미터 경량 범용 단백질 모델 (2022)</title>
+      <description>논문 「ProteinBERT: a universal deep-learning model of protein sequence and function (프로틴버트: 단백질 서열과 기능을 위한 범용 딥러닝 모델)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ProteinBERT_solo_ep1.mp3" length="55614053" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-ProteinBERT_solo-ep86</guid>
+      <pubDate>Mon, 03 Aug 2026 00:25:35 -0000</pubDate>
+      <itunes:duration>00:56:53</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>[solo] ESM-1b — 단백질 서열 2.5억개 비지도 학습에서 구조·기능이 창발 (PNAS 2021)</title>
+      <description>논문 「Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences (250백만 개 단백질 서열로 비지도 학습을 확장하니 생물학적 구조와 기능이 저절로 떠오르다)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ESM1b_solo_ep1.mp3" length="55557287" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-ESM1b_solo-ep85</guid>
+      <pubDate>Mon, 03 Aug 2026 00:10:40 -0000</pubDate>
+      <itunes:duration>00:56:50</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>[solo] ESM3 — 서열·구조·기능 멀티모달 생성 단백질 언어모델(98B), 새 형광단백질 esmGFP 설계</title>
+      <description>논문 「Simulating 500 million years of evolution with a language model (언어 모델로 5억 년의 진화를 시뮬레이션하다)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ESM3_solo_ep1.mp3" length="66119008" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-ESM3_solo-ep84</guid>
+      <pubDate>Sun, 02 Aug 2026 23:42:04 -0000</pubDate>
+      <itunes:duration>01:07:50</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>[solo] ProteinMPNN — 딥러닝 역접힘 서열설계(회복률 52.4%·1.2초), 실패설계 실험 rescue (Baker lab)</title>
+      <description>논문 「Robust deep learning based protein sequence design using ProteinMPNN (ProteinMPNN을 이용한 강건한 딥러닝 기반 단백질 서열 설계)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ProteinMPNN_solo_ep1.mp3" length="58148129" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-ProteinMPNN_solo-ep83</guid>
+      <pubDate>Sun, 02 Aug 2026 23:20:55 -0000</pubDate>
+      <itunes:duration>00:59:32</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>[solo] ProGen — 단백질 언어모델이 패밀리 넘나들며 기능성 서열 생성(라이소자임 실험검증) (Nat Biotech 2023)</title>
+      <description>논문 「Large language models generate functional protein sequences across diverse families (거대 언어 모델이 다양한 단백질 패밀리에 걸쳐 기능성 단백질 서열을 생성한다) — ProGen」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ProGen2_solo_ep1.mp3" length="54816633" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-ProGen2_solo-ep82</guid>
+      <pubDate>Sun, 02 Aug 2026 11:58:19 -0000</pubDate>
+      <itunes:duration>00:56:04</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>[solo] Protenix — AlphaFold3 완전 재현 오픈소스(학습코드·데이터까지 공개) (ByteDance)</title>
+      <description>논문 「Protenix — Advancing Structure Prediction Through a Comprehensive AlphaFold3 Reproduction (Protenix — 포괄적인 AlphaFold3 재현을 통한 구조 예측의 진전)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/Protenix_solo_ep1.mp3" length="56649352" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-Protenix_solo-ep81</guid>
+      <pubDate>Sun, 02 Aug 2026 11:41:23 -0000</pubDate>
+      <itunes:duration>00:57:58</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>[solo] RoseTTAFold All-Atom — 단백질·핵산·저분자·공유변형 통합 모델링과 RFdiffusionAA 설계</title>
+      <description>논문 「Generalized Biomolecular Modeling and Design with RoseTTAFold All-Atom (로제타폴드 올아톰을 이용한 일반화된 생체분자 모델링 및 설계)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/RFAA_solo_ep1.mp3" length="66933225" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-RFAA_solo-ep80</guid>
+      <pubDate>Sun, 02 Aug 2026 11:28:36 -0000</pubDate>
+      <itunes:duration>01:08:41</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>[solo] RoseTTAFold — 3-트랙 신경망으로 단백질 구조·상호작용·복합체 예측 (Science 2021)</title>
+      <description>논문 「Accurate prediction of protein structures and interactions using a three-track neural network (3-트랙 신경망을 이용한 정확한 단백질 구조 및 상호작용 예측) — RoseTTAFold」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/RoseTTAFold_solo_ep1.mp3" length="58209199" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-RoseTTAFold_solo-ep79</guid>
+      <pubDate>Sun, 02 Aug 2026 11:12:25 -0000</pubDate>
+      <itunes:duration>00:59:36</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>[solo] ESM-2/ESMFold — 단백질 언어모델(15B)에서 창발한 원자수준 구조예측, MSA 없이 60배 빠르게</title>
+      <description>논문 「Evolutionary-scale prediction of atomic level protein structure with a language model (언어 모델을 이용한 진화적 규모의 원자 수준 단백질 구조 예측) — ESM-2 / ESMFold」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ESMFold_solo_ep1.mp3" length="62035613" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-ESMFold_solo-ep78</guid>
+      <pubDate>Sun, 02 Aug 2026 07:58:14 -0000</pubDate>
+      <itunes:duration>01:03:35</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>[solo] ColabFold — MMseqs2로 MSA 검색 40~60배 가속, 무료 클라우드로 구조예측 대중화 (Nat Methods 2022)</title>
+      <description>논문 「ColabFold: making protein folding accessible to all (콜랩폴드: 모두에게 단백질 접힘 예측을 열다)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ColabFold_solo_ep1.mp3" length="59396123" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-ColabFold_solo-ep77</guid>
+      <pubDate>Sun, 02 Aug 2026 07:39:02 -0000</pubDate>
+      <itunes:duration>01:00:50</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>[solo] Boltz-1 — AlphaFold3급 성능의 완전 오픈소스 복합체 구조 예측 (MIT 라이선스)</title>
+      <description>논문 「Boltz-1: Democratizing Biomolecular Interaction Modeling (Boltz-1: 생체분자 상호작용 모델링의 민주화)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/Boltz1_solo_ep1.mp3" length="54737552" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-Boltz1_solo-ep76</guid>
+      <pubDate>Sun, 02 Aug 2026 07:34:04 -0000</pubDate>
+      <itunes:duration>00:55:59</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>[solo] RFdiffusion — 확산 생성모델로 de novo 단백질 설계 (RoseTTAFold 통합, 결합체 100배↑)</title>
+      <description>논문 「Broadly applicable and accurate protein design by integrating structure prediction networks and diffusion generative models (구조 예측 네트워크와 확산 생성 모델을 통합한 폭넓고 정확한 단백질 설계) — RFdiffusion」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/RFdiffusion_solo_ep1.mp3" length="60103020" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-RFdiffusion_solo-ep75</guid>
+      <pubDate>Sun, 02 Aug 2026 07:18:38 -0000</pubDate>
+      <itunes:duration>01:01:34</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>[solo] AlphaFold 3 — 단백질·핵산·리간드·이온까지 통합 복합체 구조 예측 (Nature 2024)</title>
+      <description>논문 「Accurate structure prediction of biomolecular interactions with AlphaFold 3 (AlphaFold 3로 생체분자 상호작용의 구조를 정확히 예측하다)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/AlphaFold3_solo_ep1.mp3" length="61478436" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-AlphaFold3_solo-ep74</guid>
+      <pubDate>Sun, 02 Aug 2026 07:18:12 -0000</pubDate>
+      <itunes:duration>01:03:00</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>[solo] AlphaFold — 서열만으로 원자수준 단백질 구조 예측 (Nature 2021, CASP14)</title>
+      <description>논문 「Highly accurate protein structure prediction with AlphaFold (AlphaFold을 이용한 고정밀 단백질 구조 예측)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/AlphaFold2_solo_ep1.mp3" length="53803415" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-AlphaFold2_solo-ep73</guid>
+      <pubDate>Sun, 02 Aug 2026 06:57:53 -0000</pubDate>
+      <itunes:duration>00:55:00</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
     <item>
       <title>[solo] 생성 모델을 조종하는 단백질 설계 — 정렬(RL·미세조정) vs 조건화 전략 리뷰</title>
       <description>논문 「Steering Generative Models for Protein Design: Aligning and Conditioning Strategies (생성 모델을 이용한 단백질 설계의 조종: 정렬 및 조건화 전략)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>

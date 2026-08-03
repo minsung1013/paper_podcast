@@ -1,0 +1,1 @@
+[solo] AlphaFold — 서열만으로 원자수준 단백질 구조 예측 (Nature 2021, CASP14)

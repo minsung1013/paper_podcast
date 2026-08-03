@@ -1,0 +1,1 @@
+[solo] ColabFold — MMseqs2로 MSA 검색 40~60배 가속, 무료 클라우드로 구조예측 대중화 (Nat Methods 2022)
