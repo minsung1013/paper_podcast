@@ -5,7 +5,7 @@
     <title>논문을 파헤치는 시간</title>
     <link>https://minsung1013.github.io/paper_podcast</link>
     <language>ko</language>
-    <lastBuildDate>Wed, 12 Aug 2026 01:43:22 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 01:52:02 -0000</lastBuildDate>
     <description>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</description>
     <itunes:author>클로드 · 용식</itunes:author>
     <itunes:summary>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</itunes:summary>
@@ -13,6 +13,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     <image><url>https://minsung1013.github.io/paper_podcast/cover_new.png</url><title>논문을 파헤치는 시간</title><link>https://minsung1013.github.io/paper_podcast</link></image>
+    <item>
+      <title>[study/exaone path]ExaonePath25 (solo)</title>
+      <description>논문 「🎙️ 논문 팟캐스트 (solo): EXAONE Path 2.5: Pathology Foundation Model with Multi-Omics Alignment (병리 파운데이션 모델과 멀티오믹스 정렬)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ExaonePath25Solo_ep1.mp3" length="32848097" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-ExaonePath25Solo-ep88</guid>
+      <pubDate>Wed, 12 Aug 2026 01:51:30 -0000</pubDate>
+      <itunes:duration>00:33:10</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
     <item>
       <title>[study/exaone path]ExaonePath25</title>
       <description>논문 「EXAONE Path 2.5: Pathology Foundation Model with Multi-Omics Alignment (병리 파운데이션 모델과 멀티오믹스 정렬)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
