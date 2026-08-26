@@ -5,7 +5,7 @@
     <title>논문을 파헤치는 시간</title>
     <link>https://minsung1013.github.io/paper_podcast</link>
     <language>ko</language>
-    <lastBuildDate>Thu, 20 Aug 2026 01:22:10 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 08:46:36 -0000</lastBuildDate>
     <description>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</description>
     <itunes:author>클로드 · 용식</itunes:author>
     <itunes:summary>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</itunes:summary>
@@ -13,6 +13,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     <image><url>https://minsung1013.github.io/paper_podcast/cover_new.png</url><title>논문을 파헤치는 시간</title><link>https://minsung1013.github.io/paper_podcast</link></image>
+    <item>
+      <title>[bispecific/BiSpec Pairwise AI]BiSpec Pairwise AI: 페어와이즈 학습과 GPT로 이중항체 표적 짝 고르기</title>
+      <description>논문 「BiSpec Pairwise AI: guiding the selection of bispecific antibody target combinations with pairwise learning and GPT augmentation」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/bispec-pairwise-ai_solo_ep1.mp3" length="37085894" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-bispec-pairwise-ai_solo-ep92</guid>
+      <pubDate>Wed, 26 Aug 2026 08:46:19 -0000</pubDate>
+      <itunes:duration>00:37:35</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
     <item>
       <title>[solo] 장세포의 신분 반란 — 탈분화가 시작시키는 대장암 (Schwitalla·Greten, Cell 2013)</title>
       <description>논문 「Intestinal Tumorigenesis Initiated by Dedifferentiation and Acquisition of Stem-Cell-like Properties (탈분화와 줄기세포 특성 획득으로 시작되는 장 종양 형성)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
