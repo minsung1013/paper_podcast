@@ -5,7 +5,7 @@
     <title>논문을 파헤치는 시간</title>
     <link>https://minsung1013.github.io/paper_podcast</link>
     <language>ko</language>
-    <lastBuildDate>Wed, 26 Aug 2026 08:54:57 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 07:35:52 -0000</lastBuildDate>
     <description>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</description>
     <itunes:author>클로드 · 용식</itunes:author>
     <itunes:summary>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</itunes:summary>
@@ -13,6 +13,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     <image><url>https://minsung1013.github.io/paper_podcast/cover_new.png</url><title>논문을 파헤치는 시간</title><link>https://minsung1013.github.io/paper_podcast</link></image>
+    <item>
+      <title>[Study/EXAONE] EXAONE Tabular 1.0 — 표 데이터 파운데이션 모델 (solo)</title>
+      <description>논문 「EXAONE Tabular 1.0 — 표 데이터를 위한 합성 사전(prior) 기반 파운데이션 모델」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/exaone-tabular_ep1.mp3" length="50459303" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-exaone-tabular-ep94</guid>
+      <pubDate>Mon, 31 Aug 2026 07:35:12 -0000</pubDate>
+      <itunes:duration>00:51:31</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
     <item>
       <title>[bispecific/SCAN-ACT]SCAN-ACT: 단일세포 전사체로 고형암 T세포 치료 표적 캐기</title>
       <description>논문 「SCAN-ACT: adoptive T cell therapy target discovery through single-cell transcriptomics」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
