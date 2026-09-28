@@ -5,7 +5,7 @@
     <title>논문을 파헤치는 시간</title>
     <link>https://minsung1013.github.io/paper_podcast</link>
     <language>ko</language>
-    <lastBuildDate>Mon, 31 Aug 2026 07:35:52 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 02:16:57 -0000</lastBuildDate>
     <description>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</description>
     <itunes:author>클로드 · 용식</itunes:author>
     <itunes:summary>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</itunes:summary>
@@ -13,6 +13,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     <image><url>https://minsung1013.github.io/paper_podcast/cover_new.png</url><title>논문을 파헤치는 시간</title><link>https://minsung1013.github.io/paper_podcast</link></image>
+    <item>
+      <title>[Study] 허투 양성 담도암 1차 4제 병용 임상 — HERBOT 1b/2상 (Nature Medicine 2026)</title>
+      <description>논문 「허투 양성 담도암 1차 치료 — 트라스투주맙·니볼루맙·젬시타빈·시스플라틴 4제 병용 1b/2상 시험(HERBOT)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/lunit-biliary-naturemed_ep1.mp3" length="35233509" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-lunit-biliary-naturemed-ep95</guid>
+      <pubDate>Mon, 28 Sep 2026 02:16:20 -0000</pubDate>
+      <itunes:duration>00:35:40</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
     <item>
       <title>[Study/EXAONE] EXAONE Tabular 1.0 — 표 데이터 파운데이션 모델 (solo)</title>
       <description>논문 「EXAONE Tabular 1.0 — 표 데이터를 위한 합성 사전(prior) 기반 파운데이션 모델」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
