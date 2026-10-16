@@ -5,7 +5,7 @@
     <title>논문을 파헤치는 시간</title>
     <link>https://minsung1013.github.io/paper_podcast</link>
     <language>ko</language>
-    <lastBuildDate>Fri, 16 Oct 2026 14:43:11 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 14:49:04 -0000</lastBuildDate>
     <description>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</description>
     <itunes:author>클로드 · 용식</itunes:author>
     <itunes:summary>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</itunes:summary>
@@ -13,6 +13,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     <image><url>https://minsung1013.github.io/paper_podcast/cover_new.png</url><title>논문을 파헤치는 시간</title><link>https://minsung1013.github.io/paper_podcast</link></image>
+    <item>
+      <title>EP2. 인과 발견의 지형도 — 이론과 실무를 잇다 (Zanga, Ozkirimli, Stella 2023)</title>
+      <description>논문 「인과 발견의 지형도 — 이론과 실무를 잇다 (Zanga, Ozkirimli, Stella 2023)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/Zanga2023_solo_ep1.mp3" length="20332309" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-Zanga2023_solo-ep98</guid>
+      <pubDate>Fri, 16 Oct 2026 14:48:47 -0000</pubDate>
+      <itunes:duration>00:20:08</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
     <item>
       <title>EP1. 데이터에서 원인을 캐내다 — 그래프 인과 발견 입문 (Glymour, Zhang, Spirtes 2019)</title>
       <description>논문 「데이터에서 원인을 캐내다 — 그래프 인과 발견 입문 (Glymour, Zhang, Spirtes 2019)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
