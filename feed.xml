@@ -5,7 +5,7 @@
     <title>논문을 파헤치는 시간</title>
     <link>https://minsung1013.github.io/paper_podcast</link>
     <language>ko</language>
-    <lastBuildDate>Wed, 28 Oct 2026 04:28:40 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 05:17:52 -0000</lastBuildDate>
     <description>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</description>
     <itunes:author>클로드 · 용식</itunes:author>
     <itunes:summary>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</itunes:summary>
@@ -13,6 +13,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     <image><url>https://minsung1013.github.io/paper_podcast/cover_new.png</url><title>논문을 파헤치는 시간</title><link>https://minsung1013.github.io/paper_podcast</link></image>
+    <item>
+      <title>[solo] 알파시누클레인 응집체를 겨냥한 뇌 셔틀 항체 ABL301/SAR446159 (npj Parkinson&#x27;s Disease 2025, ABL바이오·사노피)</title>
+      <description>논문 「A brain-shuttled antibody targeting alpha-synuclein aggregates for the treatment of synucleinopathies」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/abl301-asyn-igf1r-brain-shuttle_ep1.mp3" length="20668848" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-abl301-asyn-igf1r-brain-shuttle-ep106</guid>
+      <pubDate>Wed, 28 Oct 2026 05:17:09 -0000</pubDate>
+      <itunes:duration>00:20:29</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
+    <item>
+      <title>[solo] IGF1R 셔틀 Grabody B로 큰 분자를 뇌로 전달하기 (Cell Reports Methods 2022, ABL바이오)</title>
+      <description>논문 「Grabody B, an IGF1 receptor-based shuttle, mediates efficient delivery of biologics across the blood-brain barrier」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/grabody-b-igf1r-bbb-shuttle_ep1.mp3" length="22270063" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-grabody-b-igf1r-bbb-shuttle-ep105</guid>
+      <pubDate>Wed, 28 Oct 2026 05:11:38 -0000</pubDate>
+      <itunes:duration>00:22:09</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
     <item>
       <title>[solo] TfR·CD98hc 이중 표적으로 큰 분자의 뇌 전달을 끌어올리다 (Cell Reports 2025, Denali)</title>
       <description>논문 「Dual targeting of transferrin receptor and CD98hc enhances brain exposure of large molecules」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
