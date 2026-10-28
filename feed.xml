@@ -5,7 +5,7 @@
     <title>논문을 파헤치는 시간</title>
     <link>https://minsung1013.github.io/paper_podcast</link>
     <language>ko</language>
-    <lastBuildDate>Sun, 25 Oct 2026 09:47:22 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 04:28:40 -0000</lastBuildDate>
     <description>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</description>
     <itunes:author>클로드 · 용식</itunes:author>
     <itunes:summary>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</itunes:summary>
@@ -13,6 +13,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
     <image><url>https://minsung1013.github.io/paper_podcast/cover_new.png</url><title>논문을 파헤치는 시간</title><link>https://minsung1013.github.io/paper_podcast</link></image>
+    <item>
+      <title>[solo] TfR·CD98hc 이중 표적으로 큰 분자의 뇌 전달을 끌어올리다 (Cell Reports 2025, Denali)</title>
+      <description>논문 「Dual targeting of transferrin receptor and CD98hc enhances brain exposure of large molecules」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/dual-tfr-cd98hc-brain-delivery_ep1.mp3" length="34048548" type="audio/mpeg"/>
+      <guid isPermaLink="false">paperpodcast-dual-tfr-cd98hc-brain-delivery-ep104</guid>
+      <pubDate>Wed, 28 Oct 2026 04:27:54 -0000</pubDate>
+      <itunes:duration>00:34:26</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+    </item>
     <item>
       <title>[solo] HER2 전산병리 정량화(QCS)로 T-DXd 위암 바이오마커 찾기 (JCO PO 2026)</title>
       <description>논문 「HER2 정량화를 위한 전산병리 — 트라스투주맙 데룩스테칸 치료 위암의 새로운 바이오마커」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
