@@ -4,7 +4,7 @@
     <title>논문을 파헤치는 시간</title>
     <link>https://minsung1013.github.io/paper_podcast</link>
     <language>ko</language>
-    <lastBuildDate>Tue, 03 Nov 2026 20:24:37 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 20:26:45 -0000</lastBuildDate>
     <description>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</description>
     <itunes:author>클로드 · 용식</itunes:author>
     <itunes:summary>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</itunes:summary>
@@ -16,6 +16,33 @@
       <title>논문을 파헤치는 시간</title>
       <link>https://minsung1013.github.io/paper_podcast</link>
     </image>
+    <item>
+      <title>[solo] BigHat — 실험 피드백과 예측 구조로 항체를 반복 개선하기</title>
+      <description>논문 원문 순서와 주요 그림·표를 따라 설명하는 한국어 단독 내레이터 에피소드. 계산 예측과 실제 실험 결과, 연구의 한계를 구분합니다.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/bighat-guided-sequence-structure-antibody_ep1.mp3" length="41678782" type="audio/mpeg" />
+      <guid isPermaLink="false">paperpodcast-bighat-guided-sequence-structure-antibody-ep1</guid>
+      <pubDate>Tue, 03 Nov 2026 20:26:12 -0000</pubDate>
+      <itunes:duration>00:42:22</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
+    </item>
+    <item>
+      <title>[solo] BigHat — 원하는 단백질 구조에 맞는 서열을 베이지안 최적화로 찾기</title>
+      <description>논문 원문 순서와 주요 그림·표를 따라 설명하는 한국어 단독 내레이터 에피소드. 계산 예측과 실제 실험 결과, 연구의 한계를 구분합니다.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/bighat-inverse-folding-deep-bo_ep1.mp3" length="42625055" type="audio/mpeg" />
+      <guid isPermaLink="false">paperpodcast-bighat-inverse-folding-deep-bo-ep1</guid>
+      <pubDate>Tue, 03 Nov 2026 20:25:31 -0000</pubDate>
+      <itunes:duration>00:43:22</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
+    </item>
+    <item>
+      <title>[solo] BigHat — 항체 인간화를 하나의 답에서 다양한 후보의 설계로 바꾸다</title>
+      <description>논문 원문 순서와 주요 그림·표를 따라 설명하는 한국어 단독 내레이터 에피소드. 계산 예측과 실제 실험 결과, 연구의 한계를 구분합니다.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/bighat-generative-antibody-humanization_ep1.mp3" length="36144180" type="audio/mpeg" />
+      <guid isPermaLink="false">paperpodcast-bighat-generative-antibody-humanization-ep1</guid>
+      <pubDate>Tue, 03 Nov 2026 20:25:13 -0000</pubDate>
+      <itunes:duration>00:36:36</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
+    </item>
     <item>
       <title>[solo] BigHat CloneBO — 항체의 가상 진화 가족으로 다음 실험 고르기</title>
       <description>논문 원문 순서와 주요 그림·표를 따라 설명하는 한국어 단독 내레이터 에피소드. 계산 예측과 실제 실험 결과, 연구의 한계를 구분합니다.</description>

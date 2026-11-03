@@ -1,0 +1,48 @@
+# Generative Humanization — verified source dossier
+
+## Metadata and reading scope
+- All17pagesactualPDFread,includingmaintext,references,appendicesA–C.6.
+- Actualcorefigures1–4visuallyinspectedatp4,5,6. Additionalappendixtextandfigurecaptionsread.
+- CadeGordon(UC Berkeley;workatBigHat),AniruddhRaghu, PeytonGreenside,HunterElliott(BigHat).Gordon/Raghuequalcontribution.
+- FirstpagearXiv:2412.04737v2,9Dec2024;headerPublishedattheGEMworkshop,ICLR2024.NotICLRmainconferenceassertion.
+- Paperorderretained:intro;Methods2.1–2.3;Experiments3.1–3.4;Conclusion;appendixdetailsintegratedatrelevantsections.
+
+## Evidence levels and essential caveats
+1. Humanizationgeneratesmorehuman-like sequencepatterns toreduceimmunogenicityrisk;**noexperimentalhumanimmunogenicity/ADA/clinicalriskreductiontest**.Noanimal/cellpotencyorclinicalefficacyresult.
+2. OASispercentile=overlapping9merhumanrepertoirestatisticnormalizedagainst544therapeutics;notpercenthumancontentorADAprobability. MLMloglikelihoodiscontinuousproxycorrelatedon500testsequences(Fig5),notclinicalvalidation.
+3. Mainmodel25M BERTstyle,OAS~4Munpairedchains:2Mheavy+2Mlight. Notpairedwholeantibodymodelandnotde novotargetbinderdiscovery.
+4. Unmasked/Gibbs-like/autoregressivedenoisingdifferbyinputmasking. Argmaxvariantsnotthesameasresiduedistributionsampling. Firstmurinewetlabusesmaskingargmaxmethods,shouldnotlabelallwetdesignsasstochasticsampling.
+5. LocalPoEcombinesresiduelogitsandoraclepredictionswithtemperatures;notexactglobalmultivariantdistribution. Cachedsinglemutantoracleexactfor1edit,approximateaftercombinededits.
+6. Fig2/3andFig7–9**allcomputationalpredictions**.MultioracleTmandstructureguidanceNOTdemonstratedwetTmorstructure. Guidancebalancesmetrics,doesnotnecessarilymaximizeallorimproveeachoverseed.
+7. §3.4sameVHHstarterongoingprogram;actualCFPS+BLIforproduciblesubset;doesnotdemonstrateseveralfulllabrounds.
+
+## Numeric anchors and source inconsistencies
+- §3.1maintextoraclepretrain500k–1M,finetune8k;appendixC.1says1Maffinity,1.9Mthermostabilitypretrain;6kKD,7kTm/Taggfinetuning.Scriptuses'severalthousand'insteadofincompatibleexacttotals.
+- Oracleensemble10CNNs,pointpredictionminimumacrossmembers;onlyTmpredictionsusedhereevenwhenmodeltrainedTm+Tagg.
+- 10murineclinicalstartersmeanOASis.06;framework22–35mutations.30already-humanizedclinicalstartersmean.41. Frameworkonlyforcomputationaldiversitycomparison.
+- Fig1a,buniqueANDincreasedhumannesscandidatecounts,logaxis;AppendixFig6rawuniquecountsbeforehumannessfilter.Somehumanizedstartervariantshaveequalhumannessdespitedifferentsequence.
+- FirstmurinewetlabAppendixC.4:30mosthumanrandommaskingargmaxframeworkonly;230iterativerandommaskingargmaxwithupto2CDRmutations;manual/HuMAbincluded;HuMAbfailedsynthesis.MaintextalsoSapiens;avoidunreportedpooln/completesuccessrate.
+- GuidedexperimentVHHupto6mutablelocations,max2CDR;500uniquesamples/method. TemperatureMLM-alone.6,oracle-alone.2,guidedMLM1.2/oracle.4,chosenvisually.Notdefaultuniversalhyperparameters.
+- Guidedwetcandidatepools500guidedimprovedhumanness+predictedaffinity,500unguidedimprovedhumanness;Sapiens2.
+- Eachguided/unguidedpool:unrankedrandom20selected,rankedtop10byoracle;notall1000tested. FilterliabilitiesDDD/glycosylation/noncanonicalCys. Someinsufficientproductionnotmeasured;sourcehasnofullattritiontable.
+- Fig4normalizedaffinityhigherbetter,inputdashedline1;**not3.5foldKD**readfromtopdot. NoexactnM/foldeffectstated. Guided+rankedbestdistribution,unguided+rankingimprovesbutless,guidednotallpass.
+- Sapiens2failedbindinginthisVHHsetup;doesnotproveSapiensuniversallyfails.CDRnotmutatedforSapienswhileothermethodsallowupto2.
+
+## Figure oral anchors
+- Fig1p4a,b:uniquebetterhumannesscandidatecounts/logscale,murinevspre-humanized;bmorechallenging.aargmaxmaskingalsodiverse.bsamplingstronger.
+- Fig1c,d:actualhumannessandnormalizedBLIaffinityforfirstprogram,starterredbaseline,someequal/betterandsomelower.
+- Fig2p5:MLMloglikelihoodx,predictedaffinityy,densitycontours+marginalboxes;tradeoffhumanvsfunction,notactualKD.
+- Fig3p5:multi-oraclepredictedaffinity/predictedTm/loglikelihood;structureguidepredictedaffinitynotbindingmeasurement.
+- Fig4p6:actualnormalizedaffinitybysampling+rankingconditions,Sapiensnonbinders;selectedproduciblesubset.
+- Fig5p14MLM-OASiscorrelation;Fig6p15rawuniquecount;Fig7p16cachedvsfreshoracleapproximation;Fig8p16Tmpredictorguidance;Fig9p17structureguideevaluatedwithaffinitypredictor.
+
+## Primary background sources verified online
+- Prihodaetal.BioPhi,mAbs2022 https://pubmed.ncbi.nlm.nih.gov/35133949/ ;OASis/Sapiensbackground,notnewclinicalclaim.
+- Jonesetal.,Nature1986,CDRgraftingprimaryresearch https://pubmed.ncbi.nlm.nih.gov/3713831/ .
+- Devlinetal.,BERT,NAACL2019 https://aclanthology.org/N19-1423/ .
+- Mainpaperhttps://arxiv.org/abs/2412.04737 .ProvidedPDFversiongovernsnarration.
+
+## Delivery
+- Wholepaperconciseinformationdensity:spokenpart10,719Hangulsyllables(includesKoreantitle/headings),51narratorparagraphs,15,205characters;paragraph185–217Hangul.
+- title.txtbatchpattern[solo]BigHat—Koreantitle;pron.jsonprovided;requiredtopH1titleparserheaderpresent.
+- Noaudio/publicationperformedbythisagent.RootQC/render.
