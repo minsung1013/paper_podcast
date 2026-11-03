@@ -1,980 +1,992 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>논문을 파헤치는 시간</title>
     <link>https://minsung1013.github.io/paper_podcast</link>
     <language>ko</language>
-    <lastBuildDate>Thu, 29 Oct 2026 08:12:37 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 20:12:42 -0000</lastBuildDate>
     <description>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</description>
     <itunes:author>클로드 · 용식</itunes:author>
     <itunes:summary>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</itunes:summary>
-    <itunes:category text="Science"/>
+    <itunes:category text="Science" />
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
-    <image><url>https://minsung1013.github.io/paper_podcast/cover_new.png</url><title>논문을 파헤치는 시간</title><link>https://minsung1013.github.io/paper_podcast</link></image>
+    <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
+    <image>
+      <url>https://minsung1013.github.io/paper_podcast/cover_new.png</url>
+      <title>논문을 파헤치는 시간</title>
+      <link>https://minsung1013.github.io/paper_podcast</link>
+    </image>
+    <item>
+      <title>[solo] Origin-1 — 새로운 에피토프를 겨냥하는 항체 설계</title>
+      <description>논문 원문 순서와 주요 그림·표를 따라 설명하는 한국어 단독 내레이터 에피소드. 계산 예측과 실제 실험 결과, 연구의 한계를 구분합니다.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/origin1-solo_ep1.mp3" length="67611480" type="audio/mpeg" />
+      <guid isPermaLink="false">paperpodcast-origin1-solo-ep1</guid>
+      <pubDate>Tue, 03 Nov 2026 13:58:14 -0000</pubDate>
+      <itunes:duration>01:09:23</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
+    </item>
     <item>
       <title>[solo] TabEHR — 불규칙한 종단 EHR을 테이블 파운데이션 모델의 공통 열로 잇다 (ICLR 2027 심사 중)</title>
       <description>논문 「TabEHR — 종단 전자건강기록과 테이블 파운데이션 모델을 잇다」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/tabehr_ep1.mp3" length="38197201" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/tabehr_ep1.mp3" length="38197201" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-tabehr-ep107</guid>
       <pubDate>Thu, 29 Oct 2026 08:12:17 -0000</pubDate>
       <itunes:duration>00:38:45</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
-      <title>[solo] 알파시누클레인 응집체를 겨냥한 뇌 셔틀 항체 ABL301/SAR446159 (npj Parkinson&#x27;s Disease 2025, ABL바이오·사노피)</title>
+      <title>[solo] 알파시누클레인 응집체를 겨냥한 뇌 셔틀 항체 ABL301/SAR446159 (npj Parkinson's Disease 2025, ABL바이오·사노피)</title>
       <description>논문 「A brain-shuttled antibody targeting alpha-synuclein aggregates for the treatment of synucleinopathies」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/abl301-asyn-igf1r-brain-shuttle_ep1.mp3" length="20668848" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/abl301-asyn-igf1r-brain-shuttle_ep1.mp3" length="20668848" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-abl301-asyn-igf1r-brain-shuttle-ep106</guid>
       <pubDate>Wed, 28 Oct 2026 05:17:09 -0000</pubDate>
       <itunes:duration>00:20:29</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] IGF1R 셔틀 Grabody B로 큰 분자를 뇌로 전달하기 (Cell Reports Methods 2022, ABL바이오)</title>
       <description>논문 「Grabody B, an IGF1 receptor-based shuttle, mediates efficient delivery of biologics across the blood-brain barrier」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/grabody-b-igf1r-bbb-shuttle_ep1.mp3" length="22270063" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/grabody-b-igf1r-bbb-shuttle_ep1.mp3" length="22270063" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-grabody-b-igf1r-bbb-shuttle-ep105</guid>
       <pubDate>Wed, 28 Oct 2026 05:11:38 -0000</pubDate>
       <itunes:duration>00:22:09</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] TfR·CD98hc 이중 표적으로 큰 분자의 뇌 전달을 끌어올리다 (Cell Reports 2025, Denali)</title>
       <description>논문 「Dual targeting of transferrin receptor and CD98hc enhances brain exposure of large molecules」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/dual-tfr-cd98hc-brain-delivery_ep1.mp3" length="34048548" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/dual-tfr-cd98hc-brain-delivery_ep1.mp3" length="34048548" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-dual-tfr-cd98hc-brain-delivery-ep104</guid>
       <pubDate>Wed, 28 Oct 2026 04:27:54 -0000</pubDate>
       <itunes:duration>00:34:26</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] HER2 전산병리 정량화(QCS)로 T-DXd 위암 바이오마커 찾기 (JCO PO 2026)</title>
       <description>논문 「HER2 정량화를 위한 전산병리 — 트라스투주맙 데룩스테칸 치료 위암의 새로운 바이오마커」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/her2-quant-tdxd_ep1.mp3" length="49694459" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/her2-quant-tdxd_ep1.mp3" length="49694459" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-her2-quant-tdxd-ep103</guid>
       <pubDate>Sun, 25 Oct 2026 09:46:51 -0000</pubDate>
       <itunes:duration>00:50:43</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>EP6. 가장 오래된 질문, 가장 새로운 도구 — 거대 언어 모형과 인과 발견 (Wan, Lu, Wu, Hu, Li 2025)</title>
       <description>논문 「가장 오래된 질문, 가장 새로운 도구 — 거대 언어 모형과 인과 발견 (Wan, Lu, Wu, Hu, Li 2025)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/WanJin2025_solo_ep1.mp3" length="14305337" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/WanJin2025_solo_ep1.mp3" length="14305337" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-WanJin2025_solo-ep102</guid>
       <pubDate>Fri, 16 Oct 2026 15:02:44 -0000</pubDate>
       <itunes:duration>00:13:52</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>EP5. 절대 강자는 없다 — 인과 발견 알고리즘 대규모 실증 비교 (Niu, Gao, Song, Li 2024)</title>
       <description>논문 「절대 강자는 없다 — 인과 발견 알고리즘 대규모 실증 비교 (Niu, Gao, Song, Li 2024)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/Niu2024_solo_ep1.mp3" length="12974555" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/Niu2024_solo_ep1.mp3" length="12974555" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-Niu2024_solo-ep101</guid>
       <pubDate>Fri, 16 Oct 2026 14:59:25 -0000</pubDate>
       <itunes:duration>00:12:28</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>EP4. 시간과 사전 지식을 끌어안다 — IID와 시계열을 아우르는 인과 발견 (Hasan, Hossain, Gani 2023)</title>
       <description>논문 「시간과 사전 지식을 끌어안다 — IID와 시계열을 아우르는 인과 발견 (Hasan, Hossain, Gani 2023)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/Hasan2023_solo_ep1.mp3" length="15264554" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/Hasan2023_solo_ep1.mp3" length="15264554" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-Hasan2023_solo-ep100</guid>
       <pubDate>Fri, 16 Oct 2026 14:56:02 -0000</pubDate>
       <itunes:duration>00:14:52</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>EP3. 댁스를 좋아하세요? — 연속 최적화로 그래프를 배우는 시대 (Vowels, Camgoz, Bowden 2022)</title>
       <description>논문 「댁스를 좋아하세요? — 연속 최적화로 그래프를 배우는 시대 (Vowels, Camgoz, Bowden 2022)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/Vowels2022_solo_ep1.mp3" length="16054497" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/Vowels2022_solo_ep1.mp3" length="16054497" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-Vowels2022_solo-ep99</guid>
       <pubDate>Fri, 16 Oct 2026 14:52:38 -0000</pubDate>
       <itunes:duration>00:15:41</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>EP2. 인과 발견의 지형도 — 이론과 실무를 잇다 (Zanga, Ozkirimli, Stella 2023)</title>
       <description>논문 「인과 발견의 지형도 — 이론과 실무를 잇다 (Zanga, Ozkirimli, Stella 2023)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/Zanga2023_solo_ep1.mp3" length="20332309" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/Zanga2023_solo_ep1.mp3" length="20332309" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-Zanga2023_solo-ep98</guid>
       <pubDate>Fri, 16 Oct 2026 14:48:47 -0000</pubDate>
       <itunes:duration>00:20:08</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>EP1. 데이터에서 원인을 캐내다 — 그래프 인과 발견 입문 (Glymour, Zhang, Spirtes 2019)</title>
       <description>논문 「데이터에서 원인을 캐내다 — 그래프 인과 발견 입문 (Glymour, Zhang, Spirtes 2019)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/Glymour2019_solo_ep1.mp3" length="29051355" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/Glymour2019_solo_ep1.mp3" length="29051355" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-Glymour2019_solo-ep97</guid>
       <pubDate>Fri, 16 Oct 2026 14:42:47 -0000</pubDate>
       <itunes:duration>00:29:13</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[리포트/de-novo]데노보 설계 단백질 검증과 Beacon 광유체 플랫폼 — 논문 7편 분석</title>
       <description>논문 「🎙️ 기술 리포트 팟캐스트: de novo 설계 단백질의 실험 검증과 Beacon 광유체 플랫폼」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/denovo-beacon-validation_ep1.mp3" length="23805968" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/denovo-beacon-validation_ep1.mp3" length="23805968" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-denovo-beacon-validation-ep96</guid>
       <pubDate>Tue, 29 Sep 2026 07:12:06 -0000</pubDate>
       <itunes:duration>00:23:45</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[Study] 허투 양성 담도암 1차 4제 병용 임상 — HERBOT 1b/2상 (Nature Medicine 2026)</title>
       <description>논문 「허투 양성 담도암 1차 치료 — 트라스투주맙·니볼루맙·젬시타빈·시스플라틴 4제 병용 1b/2상 시험(HERBOT)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/lunit-biliary-naturemed_ep1.mp3" length="35233509" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/lunit-biliary-naturemed_ep1.mp3" length="35233509" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-lunit-biliary-naturemed-ep95</guid>
       <pubDate>Mon, 28 Sep 2026 02:16:20 -0000</pubDate>
       <itunes:duration>00:35:40</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[Study/EXAONE] EXAONE Tabular 1.0 — 표 데이터 파운데이션 모델 (solo)</title>
       <description>논문 「EXAONE Tabular 1.0 — 표 데이터를 위한 합성 사전(prior) 기반 파운데이션 모델」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/exaone-tabular_ep1.mp3" length="50459303" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/exaone-tabular_ep1.mp3" length="50459303" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-exaone-tabular-ep94</guid>
       <pubDate>Mon, 31 Aug 2026 07:35:12 -0000</pubDate>
       <itunes:duration>00:51:31</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[bispecific/SCAN-ACT]SCAN-ACT: 단일세포 전사체로 고형암 T세포 치료 표적 캐기</title>
       <description>논문 「SCAN-ACT: adoptive T cell therapy target discovery through single-cell transcriptomics」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/scan-act_solo_ep1.mp3" length="34713933" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/scan-act_solo_ep1.mp3" length="34713933" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-scan-act_solo-ep93</guid>
       <pubDate>Wed, 26 Aug 2026 08:54:39 -0000</pubDate>
       <itunes:duration>00:35:07</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[bispecific/BiSpec Pairwise AI]BiSpec Pairwise AI: 페어와이즈 학습과 GPT로 이중항체 표적 짝 고르기</title>
       <description>논문 「BiSpec Pairwise AI: guiding the selection of bispecific antibody target combinations with pairwise learning and GPT augmentation」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/bispec-pairwise-ai_solo_ep1.mp3" length="37085894" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/bispec-pairwise-ai_solo_ep1.mp3" length="37085894" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-bispec-pairwise-ai_solo-ep92</guid>
       <pubDate>Wed, 26 Aug 2026 08:46:19 -0000</pubDate>
       <itunes:duration>00:37:35</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] 장세포의 신분 반란 — 탈분화가 시작시키는 대장암 (Schwitalla·Greten, Cell 2013)</title>
       <description>논문 「Intestinal Tumorigenesis Initiated by Dedifferentiation and Acquisition of Stem-Cell-like Properties (탈분화와 줄기세포 특성 획득으로 시작되는 장 종양 형성)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/schwitalla-intestinal-tumorigenesis_ep1.mp3" length="39970699" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/schwitalla-intestinal-tumorigenesis_ep1.mp3" length="39970699" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-schwitalla-intestinal-tumorigenesis-ep91</guid>
       <pubDate>Thu, 20 Aug 2026 01:21:31 -0000</pubDate>
       <itunes:duration>00:40:36</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[논문] 이중항체 표적 짝 찾기: 벌크·단일세포·공간 전사체로 공동발현 항원 발굴 (GPC3–MUC13)</title>
       <description>논문 「Computational discovery of co-expressed antigens as dual targeting candidates for cancer therapy through bulk, single-cell, and spatial transcriptomics」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/coexpr-antigens-dual-target_ep1.mp3" length="39693564" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/coexpr-antigens-dual-target_ep1.mp3" length="39693564" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-coexpr-antigens-dual-target-ep90</guid>
       <pubDate>Fri, 14 Aug 2026 01:45:31 -0000</pubDate>
       <itunes:duration>00:40:18</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[study/Causal AI]MOIRA (solo)</title>
-      <description>논문 「🎙️ 논문 팟캐스트 (solo): Robust Multi-Omics Integration from Incomplete Modalities Significantly Improves Prediction of Alzheimer&#x27;s Disease — MOIRA (불완전한 모달리티로부터의 강건한 멀티오믹스 통합)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/MOIRA_ep1.mp3" length="26444126" type="audio/mpeg"/>
+      <description>논문 「🎙️ 논문 팟캐스트 (solo): Robust Multi-Omics Integration from Incomplete Modalities Significantly Improves Prediction of Alzheimer's Disease — MOIRA (불완전한 모달리티로부터의 강건한 멀티오믹스 통합)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/MOIRA_ep1.mp3" length="26444126" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-MOIRA-ep89</guid>
       <pubDate>Wed, 12 Aug 2026 02:27:19 -0000</pubDate>
       <itunes:duration>00:26:30</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[study/exaone path]ExaonePath25 (solo)</title>
       <description>논문 「🎙️ 논문 팟캐스트 (solo): EXAONE Path 2.5: Pathology Foundation Model with Multi-Omics Alignment (병리 파운데이션 모델과 멀티오믹스 정렬)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ExaonePath25Solo_ep1.mp3" length="32848097" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ExaonePath25Solo_ep1.mp3" length="32848097" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-ExaonePath25Solo-ep88</guid>
       <pubDate>Wed, 12 Aug 2026 01:51:30 -0000</pubDate>
       <itunes:duration>00:33:10</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[study/exaone path]ExaonePath25</title>
       <description>논문 「EXAONE Path 2.5: Pathology Foundation Model with Multi-Omics Alignment (병리 파운데이션 모델과 멀티오믹스 정렬)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ExaonePath25_ep1.mp3" length="36865211" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ExaonePath25_ep1.mp3" length="36865211" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-ExaonePath25-ep87</guid>
       <pubDate>Wed, 12 Aug 2026 01:42:53 -0000</pubDate>
       <itunes:duration>00:37:22</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] ProteinBERT — 서열+GO 기능주석 동시 사전학습, 1600만 파라미터 경량 범용 단백질 모델 (2022)</title>
       <description>논문 「ProteinBERT: a universal deep-learning model of protein sequence and function (프로틴버트: 단백질 서열과 기능을 위한 범용 딥러닝 모델)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ProteinBERT_solo_ep1.mp3" length="55614053" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ProteinBERT_solo_ep1.mp3" length="55614053" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-ProteinBERT_solo-ep86</guid>
       <pubDate>Mon, 03 Aug 2026 00:25:35 -0000</pubDate>
       <itunes:duration>00:56:53</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] ESM-1b — 단백질 서열 2.5억개 비지도 학습에서 구조·기능이 창발 (PNAS 2021)</title>
       <description>논문 「Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences (250백만 개 단백질 서열로 비지도 학습을 확장하니 생물학적 구조와 기능이 저절로 떠오르다)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ESM1b_solo_ep1.mp3" length="55557287" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ESM1b_solo_ep1.mp3" length="55557287" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-ESM1b_solo-ep85</guid>
       <pubDate>Mon, 03 Aug 2026 00:10:40 -0000</pubDate>
       <itunes:duration>00:56:50</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] ESM3 — 서열·구조·기능 멀티모달 생성 단백질 언어모델(98B), 새 형광단백질 esmGFP 설계</title>
       <description>논문 「Simulating 500 million years of evolution with a language model (언어 모델로 5억 년의 진화를 시뮬레이션하다)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ESM3_solo_ep1.mp3" length="66119008" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ESM3_solo_ep1.mp3" length="66119008" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-ESM3_solo-ep84</guid>
       <pubDate>Sun, 02 Aug 2026 23:42:04 -0000</pubDate>
       <itunes:duration>01:07:50</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] ProteinMPNN — 딥러닝 역접힘 서열설계(회복률 52.4%·1.2초), 실패설계 실험 rescue (Baker lab)</title>
       <description>논문 「Robust deep learning based protein sequence design using ProteinMPNN (ProteinMPNN을 이용한 강건한 딥러닝 기반 단백질 서열 설계)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ProteinMPNN_solo_ep1.mp3" length="58148129" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ProteinMPNN_solo_ep1.mp3" length="58148129" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-ProteinMPNN_solo-ep83</guid>
       <pubDate>Sun, 02 Aug 2026 23:20:55 -0000</pubDate>
       <itunes:duration>00:59:32</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] ProGen — 단백질 언어모델이 패밀리 넘나들며 기능성 서열 생성(라이소자임 실험검증) (Nat Biotech 2023)</title>
       <description>논문 「Large language models generate functional protein sequences across diverse families (거대 언어 모델이 다양한 단백질 패밀리에 걸쳐 기능성 단백질 서열을 생성한다) — ProGen」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ProGen2_solo_ep1.mp3" length="54816633" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ProGen2_solo_ep1.mp3" length="54816633" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-ProGen2_solo-ep82</guid>
       <pubDate>Sun, 02 Aug 2026 11:58:19 -0000</pubDate>
       <itunes:duration>00:56:04</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] Protenix — AlphaFold3 완전 재현 오픈소스(학습코드·데이터까지 공개) (ByteDance)</title>
       <description>논문 「Protenix — Advancing Structure Prediction Through a Comprehensive AlphaFold3 Reproduction (Protenix — 포괄적인 AlphaFold3 재현을 통한 구조 예측의 진전)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/Protenix_solo_ep1.mp3" length="56649352" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/Protenix_solo_ep1.mp3" length="56649352" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-Protenix_solo-ep81</guid>
       <pubDate>Sun, 02 Aug 2026 11:41:23 -0000</pubDate>
       <itunes:duration>00:57:58</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] RoseTTAFold All-Atom — 단백질·핵산·저분자·공유변형 통합 모델링과 RFdiffusionAA 설계</title>
       <description>논문 「Generalized Biomolecular Modeling and Design with RoseTTAFold All-Atom (로제타폴드 올아톰을 이용한 일반화된 생체분자 모델링 및 설계)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/RFAA_solo_ep1.mp3" length="66933225" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/RFAA_solo_ep1.mp3" length="66933225" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-RFAA_solo-ep80</guid>
       <pubDate>Sun, 02 Aug 2026 11:28:36 -0000</pubDate>
       <itunes:duration>01:08:41</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] RoseTTAFold — 3-트랙 신경망으로 단백질 구조·상호작용·복합체 예측 (Science 2021)</title>
       <description>논문 「Accurate prediction of protein structures and interactions using a three-track neural network (3-트랙 신경망을 이용한 정확한 단백질 구조 및 상호작용 예측) — RoseTTAFold」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/RoseTTAFold_solo_ep1.mp3" length="58209199" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/RoseTTAFold_solo_ep1.mp3" length="58209199" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-RoseTTAFold_solo-ep79</guid>
       <pubDate>Sun, 02 Aug 2026 11:12:25 -0000</pubDate>
       <itunes:duration>00:59:36</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] ESM-2/ESMFold — 단백질 언어모델(15B)에서 창발한 원자수준 구조예측, MSA 없이 60배 빠르게</title>
       <description>논문 「Evolutionary-scale prediction of atomic level protein structure with a language model (언어 모델을 이용한 진화적 규모의 원자 수준 단백질 구조 예측) — ESM-2 / ESMFold」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ESMFold_solo_ep1.mp3" length="62035613" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ESMFold_solo_ep1.mp3" length="62035613" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-ESMFold_solo-ep78</guid>
       <pubDate>Sun, 02 Aug 2026 07:58:14 -0000</pubDate>
       <itunes:duration>01:03:35</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] ColabFold — MMseqs2로 MSA 검색 40~60배 가속, 무료 클라우드로 구조예측 대중화 (Nat Methods 2022)</title>
       <description>논문 「ColabFold: making protein folding accessible to all (콜랩폴드: 모두에게 단백질 접힘 예측을 열다)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ColabFold_solo_ep1.mp3" length="59396123" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ColabFold_solo_ep1.mp3" length="59396123" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-ColabFold_solo-ep77</guid>
       <pubDate>Sun, 02 Aug 2026 07:39:02 -0000</pubDate>
       <itunes:duration>01:00:50</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] Boltz-1 — AlphaFold3급 성능의 완전 오픈소스 복합체 구조 예측 (MIT 라이선스)</title>
       <description>논문 「Boltz-1: Democratizing Biomolecular Interaction Modeling (Boltz-1: 생체분자 상호작용 모델링의 민주화)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/Boltz1_solo_ep1.mp3" length="54737552" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/Boltz1_solo_ep1.mp3" length="54737552" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-Boltz1_solo-ep76</guid>
       <pubDate>Sun, 02 Aug 2026 07:34:04 -0000</pubDate>
       <itunes:duration>00:55:59</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] RFdiffusion — 확산 생성모델로 de novo 단백질 설계 (RoseTTAFold 통합, 결합체 100배↑)</title>
       <description>논문 「Broadly applicable and accurate protein design by integrating structure prediction networks and diffusion generative models (구조 예측 네트워크와 확산 생성 모델을 통합한 폭넓고 정확한 단백질 설계) — RFdiffusion」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/RFdiffusion_solo_ep1.mp3" length="60103020" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/RFdiffusion_solo_ep1.mp3" length="60103020" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-RFdiffusion_solo-ep75</guid>
       <pubDate>Sun, 02 Aug 2026 07:18:38 -0000</pubDate>
       <itunes:duration>01:01:34</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] AlphaFold 3 — 단백질·핵산·리간드·이온까지 통합 복합체 구조 예측 (Nature 2024)</title>
       <description>논문 「Accurate structure prediction of biomolecular interactions with AlphaFold 3 (AlphaFold 3로 생체분자 상호작용의 구조를 정확히 예측하다)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/AlphaFold3_solo_ep1.mp3" length="61478436" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/AlphaFold3_solo_ep1.mp3" length="61478436" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-AlphaFold3_solo-ep74</guid>
       <pubDate>Sun, 02 Aug 2026 07:18:12 -0000</pubDate>
       <itunes:duration>01:03:00</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] AlphaFold — 서열만으로 원자수준 단백질 구조 예측 (Nature 2021, CASP14)</title>
       <description>논문 「Highly accurate protein structure prediction with AlphaFold (AlphaFold을 이용한 고정밀 단백질 구조 예측)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/AlphaFold2_solo_ep1.mp3" length="53803415" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/AlphaFold2_solo_ep1.mp3" length="53803415" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-AlphaFold2_solo-ep73</guid>
       <pubDate>Sun, 02 Aug 2026 06:57:53 -0000</pubDate>
       <itunes:duration>00:55:00</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] 생성 모델을 조종하는 단백질 설계 — 정렬(RL·미세조정) vs 조건화 전략 리뷰</title>
       <description>논문 「Steering Generative Models for Protein Design: Aligning and Conditioning Strategies (생성 모델을 이용한 단백질 설계의 조종: 정렬 및 조건화 전략)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/SteeringProteinGen_ep1.mp3" length="45720135" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/SteeringProteinGen_ep1.mp3" length="45720135" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-SteeringProteinGen-ep72</guid>
       <pubDate>Sun, 02 Aug 2026 01:21:40 -0000</pubDate>
       <itunes:duration>00:46:35</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] 제어 가능한 단백질 서열 설계를 위한 생성형 AI — 조건부 생성 서베이 (구조·기능·고차원)</title>
       <description>논문 「Generative AI for controllable protein sequence design: A survey (제어 가능한 단백질 서열 설계를 위한 생성형 AI: 서베이)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/GenAIproteinSeq_ep1.mp3" length="60547628" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/GenAIproteinSeq_ep1.mp3" length="60547628" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-GenAIproteinSeq-ep71</guid>
       <pubDate>Sun, 02 Aug 2026 01:17:41 -0000</pubDate>
       <itunes:duration>01:02:02</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] 딥러닝 단백질 설계 모델 중심 리뷰 — 예측·복합체·de novo 생성·서열설계 계보 (16종)</title>
       <description>논문 「A Model-Centric Review of Deep Learning for Protein Design (딥러닝 기반 단백질 설계에 대한 모델 중심 리뷰)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ModelCentricProteinDesign_ep1.mp3" length="58650077" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ModelCentricProteinDesign_ep1.mp3" length="58650077" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-ModelCentricProteinDesign-ep70</guid>
       <pubDate>Sun, 02 Aug 2026 00:59:39 -0000</pubDate>
       <itunes:duration>01:00:03</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] 딥러닝 단백질 구조예측·설계 — 노벨상 4대 모델(AlphaFold·RoseTTAFold·RFDiffusion·ProteinMPNN) 리뷰</title>
       <description>논문 「Deep Learning-Driven Protein Structure Prediction and Design: Key Model Developments by Nobel Laureates and Multi-Domain Applications (딥러닝 기반 단백질 구조 예측과 설계: 노벨상 수상자들의 핵심 모델 발전과 다분야 응용)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/NobelProteinDL_ep1.mp3" length="59649964" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/NobelProteinDL_ep1.mp3" length="59649964" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-NobelProteinDL-ep69</guid>
       <pubDate>Sat, 01 Aug 2026 22:54:16 -0000</pubDate>
       <itunes:duration>01:01:06</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] 단백질 설계, AI 시대로 — 기초·도구·떠오르는 패러다임 (리뷰)</title>
       <description>논문 「Protein Design Enters the Artificial Intelligence Era: Foundations, Tools, and Emerging Paradigms (단백질 설계, 인공지능 시대로 들어서다: 기초, 도구, 그리고 떠오르는 패러다임)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ProteinDesignAIera_ep1.mp3" length="62482426" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ProteinDesignAIera_ep1.mp3" length="62482426" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-ProteinDesignAIera-ep68</guid>
       <pubDate>Sat, 01 Aug 2026 22:47:21 -0000</pubDate>
       <itunes:duration>01:04:03</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] 공간전사체 디컨볼루션 계산방법 종합 리뷰 (픽셀→세포유형)</title>
       <description>논문 「From pixels to cell types: a comprehensive review of computational methods for spatial transcriptomics deconvolution (픽셀에서 세포 유형으로: 공간전사체 디컨볼루션 계산 방법에 대한 종합 리뷰)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/STdeconvReview_solo_ep1.mp3" length="56306259" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/STdeconvReview_solo_ep1.mp3" length="56306259" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-STdeconvReview_solo-ep67</guid>
       <pubDate>Sat, 01 Aug 2026 20:16:20 -0000</pubDate>
       <itunes:duration>00:57:37</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] 공간가변유전자(SVG) 검출 34종 방법 범주화 (리뷰)</title>
       <description>논문 「34개 계산 방법으로 공간해상 전사체 데이터에서 공간가변유전자(SVG)를 검출하는 방법들의 범주화 (Categorization of 34 computational methods to detect spatially variable genes from spatially resolved transcriptomics data)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/SVGmethods_solo_ep1.mp3" length="63894759" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/SVGmethods_solo_ep1.mp3" length="63894759" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-SVGmethods_solo-ep66</guid>
       <pubDate>Sat, 01 Aug 2026 20:14:26 -0000</pubDate>
       <itunes:duration>01:05:31</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] 단일세포·공간전사체 머신러닝 응용 발전사 (리뷰)</title>
       <description>논문 「Progress in the Application of Machine Learning in the Field of Single-Cell and Spatial Transcriptomics (단일세포·공간전사체 분야에서의 머신러닝 응용 발전사)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/MLspatialProgress_solo_ep1.mp3" length="64066466" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/MLspatialProgress_solo_ep1.mp3" length="64066466" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-MLspatialProgress_solo-ep65</guid>
       <pubDate>Sat, 01 Aug 2026 15:13:11 -0000</pubDate>
       <itunes:duration>01:05:42</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] 멀티모달 공간오믹스: 데이터 획득에서 계산적 통합까지 (리뷰)</title>
       <description>논문 「Multimodal spatial omics: From data acquisition to computational integration (멀티모달 공간오믹스: 데이터 획득에서 계산적 통합까지)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/MultimodalSpatial_solo_ep1.mp3" length="57853894" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/MultimodalSpatial_solo_ep1.mp3" length="57853894" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-MultimodalSpatial_solo-ep64</guid>
       <pubDate>Sat, 01 Aug 2026 15:11:03 -0000</pubDate>
       <itunes:duration>00:59:13</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] H&amp;E 중심 공간오믹스 계산진화: 통합·매핑·파운데이션 모델 (리뷰)</title>
       <description>논문 「Histopathology-centered computational evolution of spatial omics: integration, mapping, and foundation models (조직병리학을 중심으로 본 공간오믹스 계산방법의 진화: 통합, 매핑, 그리고 파운데이션 모델)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/SpatialFoundation_solo_ep1.mp3" length="57369979" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/SpatialFoundation_solo_ep1.mp3" length="57369979" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-SpatialFoundation_solo-ep63</guid>
       <pubDate>Sat, 01 Aug 2026 14:53:23 -0000</pubDate>
       <itunes:duration>00:58:43</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] 단일세포·공간전사체 딥러닝: 데이터 과학 관점 진보와 도전 (리뷰)</title>
       <description>논문 「Deep learning in single-cell and spatial transcriptomics data analysis: advances and challenges from a data science perspective (데이터 과학 관점에서 본 단일세포·공간전사체 데이터 분석의 딥러닝: 진보와 도전)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/DLspatial_solo_ep1.mp3" length="60747094" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/DLspatial_solo_ep1.mp3" length="60747094" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-DLspatial_solo-ep62</guid>
       <pubDate>Sat, 01 Aug 2026 14:46:33 -0000</pubDate>
       <itunes:duration>01:02:14</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] 공간전사체×AI 두경부 병리 스코핑 리뷰 (구강암 전환예측)</title>
       <description>논문 「공간전사체와 인공지능: 두경부 병리학의 새로운 응용에 대한 스코핑 리뷰 (Spatial transcriptomics and artificial intelligence: a scoping review of emerging applications in head and neck pathology)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/HNspatialAI_solo_ep1.mp3" length="63484709" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/HNspatialAI_solo_ep1.mp3" length="63484709" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-HNspatialAI_solo-ep61</guid>
       <pubDate>Sat, 01 Aug 2026 14:33:17 -0000</pubDate>
       <itunes:duration>01:05:05</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] 공간 오믹스를 위한 차세대 ML·DL: 모델 선택 프레임워크 (리뷰)</title>
       <description>논문 「Toward next-generation machine learning and deep learning for spatial omics (공간 오믹스를 위한 차세대 머신러닝·딥러닝을 향하여)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/NextGenMLspatial_solo_ep1.mp3" length="61537365" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/NextGenMLspatial_solo_ep1.mp3" length="61537365" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-NextGenMLspatial_solo-ep60</guid>
       <pubDate>Sat, 01 Aug 2026 14:20:25 -0000</pubDate>
       <itunes:duration>01:03:04</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] 대장암 이질성의 AI 기반 단일세포·공간전사체 정밀 탐색 (리뷰)</title>
       <description>논문 「Multidimensional decoding of colorectal cancer heterogeneity: Artificial intelligence-enabled precision exploration of single-cell and spatial transcriptomics (대장암 이질성의 다차원 해독: 단일세포·공간전사체를 향한 인공지능 기반 정밀 탐색)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/CRCspatialAI_solo_ep1.mp3" length="58937783" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/CRCspatialAI_solo_ep1.mp3" length="58937783" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-CRCspatialAI_solo-ep59</guid>
       <pubDate>Sat, 01 Aug 2026 12:15:38 -0000</pubDate>
       <itunes:duration>01:00:21</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] AI 공간전사체로 구강암(OSCC) 종양미세환경 지도·치료 개인화 (리뷰)</title>
       <description>논문 「Artificial Intelligence–driven spatial transcriptomics in OSCC: Mapping the tumor microenvironment and personalizing therapy (인공지능 기반 공간전사체학으로 구강편평세포암의 종양미세환경 지도를 그리고 치료를 개인화하다)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/OSCCspatialAI_solo_ep1.mp3" length="57527994" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/OSCCspatialAI_solo_ep1.mp3" length="57527994" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-OSCCspatialAI_solo-ep58</guid>
       <pubDate>Sat, 01 Aug 2026 12:14:38 -0000</pubDate>
       <itunes:duration>00:58:53</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] 암 공간전사체를 위한 AI: YY1·RKIP 중심 (리뷰)</title>
       <description>논문 「Advances in artificial intelligence for spatial transcriptomics in cancer: Special focus on Yin Yang 1 (YY1) and Raf kinase inhibitor protein (RKIP) (암에서의 공간전사체를 위한 인공지능의 진보: YY1과 RKIP를 중심으로)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/AIcancerYY1_solo_ep1.mp3" length="58720828" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/AIcancerYY1_solo_ep1.mp3" length="58720828" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-AIcancerYY1_solo-ep57</guid>
       <pubDate>Sat, 01 Aug 2026 11:57:31 -0000</pubDate>
       <itunes:duration>01:00:08</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] 공간 오믹스 × AI로 암 연구 혁신 (리뷰)</title>
       <description>논문 「Integrative spatial omics and artificial intelligence: transforming cancer research with omics data and AI (공간 오믹스와 인공지능의 통합: 오믹스 데이터와 AI로 암 연구를 혁신하다)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/SpatialAIcancer_solo_ep1.mp3" length="68389863" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/SpatialAIcancer_solo_ep1.mp3" length="68389863" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-SpatialAIcancer_solo-ep56</guid>
       <pubDate>Sat, 01 Aug 2026 11:55:13 -0000</pubDate>
       <itunes:duration>01:10:12</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] SOAR — 공간전사체 통합 플랫폼(3461샘플·13종): 통찰·세포소통·신약발굴</title>
       <description>논문 「SOAR elucidates biological insights and empowers drug discovery through spatial transcriptomics (SOAR: 공간전사체를 통해 생물학적 통찰을 밝히고 신약 발굴을 뒷받침하는 통합 플랫폼)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/SOAR_solo_ep1.mp3" length="58224263" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/SOAR_solo_ep1.mp3" length="58224263" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-SOAR_solo-ep55</guid>
       <pubDate>Sat, 01 Aug 2026 09:36:04 -0000</pubDate>
       <itunes:duration>00:59:36</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] STAGATE — 적응형 그래프 어텐션 오토인코더로 공간전사체 공간 도메인 해독</title>
       <description>논문 「Deciphering spatial domains from spatially resolved transcriptomics with an adaptive graph attention auto-encoder (적응형 그래프 어텐션 오토인코더로 공간전사체에서 공간 도메인 해독하기 — STAGATE)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/STAGATE_solo_ep1.mp3" length="58692394" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/STAGATE_solo_ep1.mp3" length="58692394" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-STAGATE_solo-ep54</guid>
       <pubDate>Sat, 01 Aug 2026 09:07:23 -0000</pubDate>
       <itunes:duration>01:00:06</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] SpaGCN — 발현·공간·조직형태를 GCN으로 통합해 공간 도메인·공간가변유전자 검출</title>
       <description>논문 「SpaGCN: 그래프 합성곱 네트워크로 유전자 발현·공간 위치·조직 형태를 통합해 공간 도메인과 공간 가변 유전자를 찾다 (SpaGCN: Integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/SpaGCN_solo_ep1.mp3" length="63102786" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/SpaGCN_solo_ep1.mp3" length="63102786" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-SpaGCN_solo-ep53</guid>
       <pubDate>Sat, 01 Aug 2026 07:21:45 -0000</pubDate>
       <itunes:duration>01:04:41</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] BayesSpace — 공간전사체를 서브스폿 해상도로 끌어올리는 베이지안 방법</title>
       <description>논문 「Spatial transcriptomics at subspot resolution with BayesSpace (BayesSpace: 공간 전사체 데이터를 서브스폿 해상도로 끌어올리는 베이지안 방법)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/BayesSpace_solo_ep1.mp3" length="55272591" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/BayesSpace_solo_ep1.mp3" length="55272591" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-BayesSpace_solo-ep52</guid>
       <pubDate>Sat, 01 Aug 2026 07:00:38 -0000</pubDate>
       <itunes:duration>00:56:32</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] GraphST — 공간전사체 군집화·통합·디컨볼루션 그래프 자기지도 대조학습</title>
       <description>논문 「Spatially informed clustering, integration, and deconvolution of spatial transcriptomics with GraphST (GraphST: 공간전사체의 공간정보 기반 군집화·통합·디컨볼루션)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/GraphST_solo_ep1.mp3" length="59101534" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/GraphST_solo_ep1.mp3" length="59101534" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-GraphST_solo-ep51</guid>
       <pubDate>Sat, 01 Aug 2026 07:00:37 -0000</pubDate>
       <itunes:duration>01:00:31</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] BANKSY — 세포 유형 분류와 조직 도메인 분할을 통합하는 공간 오믹스 알고리즘</title>
       <description>논문 「BANKSY unifies cell typing and tissue domain segmentation for scalable spatial omics data analysis (BANKSY: 확장 가능한 공간 오믹스 데이터 분석을 위해 세포 유형 분류와 조직 도메인 분할을 통합하는 알고리즘)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/BANKSY_solo_ep1.mp3" length="70043347" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/BANKSY_solo_ep1.mp3" length="70043347" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-BANKSY_solo-ep50</guid>
       <pubDate>Sat, 01 Aug 2026 06:57:15 -0000</pubDate>
       <itunes:duration>01:11:55</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] COMMOT — 집합적 최적수송으로 공간전사체 세포–세포 소통 스크리닝</title>
       <description>논문 「Screening cell–cell communication in spatial transcriptomics via collective optimal transport (공간전사체에서 집합적 최적수송으로 세포-세포 커뮤니케이션을 스크리닝하다) — 방법 이름 COMMOT」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/COMMOT_solo_ep1.mp3" length="101295809" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/COMMOT_solo_ep1.mp3" length="101295809" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-COMMOT_solo-ep49</guid>
       <pubDate>Sat, 01 Aug 2026 00:50:44 -0000</pubDate>
       <itunes:duration>01:44:28</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] NicheNet — 리간드를 표적 유전자에 연결하는 세포 간 소통 모델링</title>
       <description>논문 「NicheNet: modeling intercellular communication by linking ligands to target genes (니치넷: 리간드를 표적 유전자에 연결해 세포 간 소통을 모델링하기)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/NicheNet_solo_ep1.mp3" length="95322701" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/NicheNet_solo_ep1.mp3" length="95322701" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-NicheNet_solo-ep48</guid>
       <pubDate>Sat, 01 Aug 2026 00:48:30 -0000</pubDate>
       <itunes:duration>01:38:15</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] CellNEST — 공간전사체 어텐션으로 세포–세포 릴레이 네트워크 탐지</title>
       <description>논문 「CellNEST reveals cell–cell relay networks using attention mechanisms on spatial transcriptomics (어텐션 메커니즘으로 공간전사체에서 세포–세포 릴레이 네트워크를 밝히는 CellNEST)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/CellNEST_solo_ep1.mp3" length="101294120" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/CellNEST_solo_ep1.mp3" length="101294120" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-CellNEST_solo-ep47</guid>
       <pubDate>Sat, 01 Aug 2026 00:24:27 -0000</pubDate>
       <itunes:duration>01:44:28</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] CellChat — 세포-세포 소통 추론·분석 R 패키지</title>
       <description>논문 「Inference and analysis of cell-cell communication using CellChat (CellChat를 이용한 세포-세포 소통의 추론과 분석)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/CellChat_solo_ep1.mp3" length="146948974" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/CellChat_solo_ep1.mp3" length="146948974" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-CellChat_solo-ep46</guid>
       <pubDate>Sat, 01 Aug 2026 00:18:04 -0000</pubDate>
       <itunes:duration>02:32:02</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] CellPhoneDB — 다중 서브유닛 리간드·수용체로 세포–세포 통신 추론</title>
       <description>논문 「CellPhoneDB: inferring cell–cell communication from combined expression of multi-subunit ligand–receptor complexes (CellPhoneDB: 다중 서브유닛 리간드–수용체 복합체의 결합 발현으로 세포–세포 통신 추론하기)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/CellPhoneDB_solo_ep1.mp3" length="113952883" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/CellPhoneDB_solo_ep1.mp3" length="113952883" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-CellPhoneDB_solo-ep45</guid>
       <pubDate>Fri, 31 Jul 2026 23:15:53 -0000</pubDate>
       <itunes:duration>01:57:40</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[타깃발굴/③앵커]scTherapy</title>
       <description>논문 「Single-cell transcriptomes identify patient-tailored therapies for selective co-inhibition of cancer clones (단일세포 전사체로 암 클론을 선택적으로 동시 억제하는 환자 맞춤 치료법 찾기 — scTherapy)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/scTherapy_ep1.mp3" length="76233307" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/scTherapy_ep1.mp3" length="76233307" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-scTherapy-ep44</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:31 -0000</pubDate>
       <itunes:duration>01:18:22</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[target_discovery/G4]nnSVG</title>
       <description>논문 「nnSVG for the scalable identification of spatially variable genes using nearest-neighbor Gaussian processes (최근접 이웃 가우시안 과정을 이용한, 공간적으로 변하는 유전자의 확장 가능한 식별 방법 nnSVG)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/nnSVG_ep1.mp3" length="70382302" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/nnSVG_ep1.mp3" length="70382302" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-nnSVG-ep43</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:31 -0000</pubDate>
       <itunes:duration>01:12:16</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[타깃발굴/①후보생성]Target Identification</title>
       <description>논문 「Target Identification: 공간전사체에서 신규 약물 타깃 후보를 발굴하는 3가지 렌즈 (surfaceome · 세포간통신 · 반응차등) / Target Identification: Three Lenses for Discovering Novel Drug Target Candidates from Spatial Transcriptomics」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/TargetID_ep1.mp3" length="75047172" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/TargetID_ep1.mp3" length="75047172" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-TargetID-ep42</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:31 -0000</pubDate>
       <itunes:duration>01:17:08</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[target_discovery/G1]THBS2CAF</title>
       <description>논문 「THBS2-producing matrix CAFs promote colorectal cancer progression and link to poor prognosis via the CD47-MAPK axis (THBS2를 분비하는 기질형 CAF가 CD47-MAPK 축을 통해 대장암 진행을 촉진하고 나쁜 예후와 연결된다)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/THBS2CAF_ep1.mp3" length="64881548" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/THBS2CAF_ep1.mp3" length="64881548" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-THBS2CAF-ep41</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:30 -0000</pubDate>
       <itunes:duration>01:06:33</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[타깃발굴/①찾기]Cancer Surfaceome Atlas</title>
       <description>논문 「The Cancer Surfaceome Atlas integrates genomic, functional and drug response data to identify actionable targets (암 표면단백질체 아틀라스: 유전체·기능·약물반응 데이터를 통합해 실행 가능한 표적을 발굴하다)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/SurfaceomeAtlas_ep1.mp3" length="68285829" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/SurfaceomeAtlas_ep1.mp3" length="68285829" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-SurfaceomeAtlas-ep40</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:30 -0000</pubDate>
       <itunes:duration>01:10:05</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[방법론요약] 공간전사체 타겟 발굴 핵심 방법론 9선 (쉬운 요약 낭독)</title>
       <description>논문 「공간전사체 신규 타겟 발굴 — 핵심 방법론 9선 쉬운 요약」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/SpatialMethods9_ep1.mp3" length="51288513" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/SpatialMethods9_ep1.mp3" length="51288513" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-SpatialMethods9-ep39</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:30 -0000</pubDate>
       <itunes:duration>00:52:23</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[target_discovery/G6]SpatialGlue</title>
       <description>논문 「Deciphering spatial domains from spatial multi-omics with SpatialGlue (SpatialGlue로 공간 멀티오믹스에서 공간 도메인 해독하기)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/SpatialGlue_ep1.mp3" length="67161418" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/SpatialGlue_ep1.mp3" length="67161418" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-SpatialGlue-ep38</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:30 -0000</pubDate>
       <itunes:duration>01:08:55</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[타깃발굴/③앵커]Spatial Ecotypes</title>
       <description>논문 「Non-invasive profiling of the tumour microenvironment with spatial ecotypes (공간 에코타입을 이용한 종양 미세환경의 비침습적 프로파일링)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/SpatialEcotype_ep1.mp3" length="66654450" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/SpatialEcotype_ep1.mp3" length="66654450" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-SpatialEcotype-ep37</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:30 -0000</pubDate>
       <itunes:duration>01:08:23</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[target_discovery/G2]SpaGCN</title>
       <description>논문 「SpaGCN: Integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network (SpaGCN: 유전자 발현·공간 위치·조직 이미지를 통합해 그래프 합성곱 신경망으로 공간 도메인과 공간 가변 유전자를 찾는 방법)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/SpaGCN_ep1.mp3" length="66459426" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/SpaGCN_ep1.mp3" length="66459426" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-SpaGCN-ep36</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:30 -0000</pubDate>
       <itunes:duration>01:08:11</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[target_discovery/G2]STAGATE</title>
       <description>논문 「Deciphering spatial domains from spatially resolved transcriptomics with an adaptive graph attention auto-encoder (적응형 그래프 어텐션 오토인코더로 공간 전사체 데이터에서 공간 도메인 해독하기 — STAGATE)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/STAGATE_ep1.mp3" length="70516888" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/STAGATE_ep1.mp3" length="70516888" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-STAGATE-ep35</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:29 -0000</pubDate>
       <itunes:duration>01:12:25</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[target_discovery/G4]SPARKX</title>
       <description>논문 「SPARK-X: non-parametric modeling enables scalable and robust detection of spatial expression patterns for large spatial transcriptomic studies (SPARK-X: 비모수 모델링으로 대규모 공간 전사체 연구에서 공간 발현 패턴을 확장 가능하고 견고하게 탐지하기)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/SPARKX_ep1.mp3" length="72666920" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/SPARKX_ep1.mp3" length="72666920" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-SPARKX-ep34</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:29 -0000</pubDate>
       <itunes:duration>01:14:39</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[protein_design/구조예측]RoseTTAFold</title>
       <description>논문 「Accurate prediction of protein structures and interactions using a three-track neural network (3-트랙 신경망을 이용한 단백질 구조와 상호작용의 정확한 예측)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/RoseTTAFold_ep1.mp3" length="73734279" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/RoseTTAFold_ep1.mp3" length="73734279" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-RoseTTAFold-ep33</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:29 -0000</pubDate>
       <itunes:duration>01:15:46</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[protein_design/단백질설계]RFdiffusion</title>
       <description>논문 「Broadly applicable and accurate protein design by integrating structure prediction networks and diffusion generative models (구조 예측 신경망과 확산 생성 모델을 통합한, 폭넓게 적용 가능하고 정확한 단백질 설계 — RFdiffusion)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/RFdiffusion_ep1.mp3" length="76087469" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/RFdiffusion_ep1.mp3" length="76087469" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-RFdiffusion-ep32</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:29 -0000</pubDate>
       <itunes:duration>01:18:13</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[protein_design/구조예측]RFAA</title>
       <description>논문 「Generalized Biomolecular Modeling and Design with RoseTTAFold All-Atom (RoseTTAFold All-Atom을 이용한 일반화된 생체분자 모델링과 설계)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/RFAA_ep1.mp3" length="73891821" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/RFAA_ep1.mp3" length="73891821" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-RFAA-ep31</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:29 -0000</pubDate>
       <itunes:duration>01:15:56</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[protein_design/구조예측]Protenix</title>
       <description>논문 「Protenix — Advancing Structure Prediction Through a Comprehensive AlphaFold3 Reproduction (프로테닉스 — 완전한 AlphaFold3 재현을 통한 구조 예측의 발전)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/Protenix_ep1.mp3" length="75913513" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/Protenix_ep1.mp3" length="75913513" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-Protenix-ep30</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:28 -0000</pubDate>
       <itunes:duration>01:18:02</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[protein_design/단백질설계]ProteinMPNN</title>
       <description>논문 「Robust deep learning based protein sequence design using ProteinMPNN (ProteinMPNN을 이용한 견고한 딥러닝 기반 단백질 서열 설계)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ProteinMPNN_ep1.mp3" length="75431577" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ProteinMPNN_ep1.mp3" length="75431577" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-ProteinMPNN-ep29</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:28 -0000</pubDate>
       <itunes:duration>01:17:32</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[protein_design/파운데이션모델]ProteinBERT</title>
       <description>논문 「ProteinBERT: a universal deep-learning model of protein sequence and function (ProteinBERT: 단백질 서열과 기능을 위한 범용 딥러닝 모델)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ProteinBERT_ep1.mp3" length="70757546" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ProteinBERT_ep1.mp3" length="70757546" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-ProteinBERT-ep28</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:28 -0000</pubDate>
       <itunes:duration>01:12:40</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[protein_design/단백질설계]ProGen2</title>
       <description>논문 「Large language models generate functional protein sequences across diverse families (거대 언어 모델이 다양한 단백질 패밀리에 걸쳐 기능하는 단백질 서열을 생성하다) — 모델명 ProGen」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ProGen2_ep1.mp3" length="68493943" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ProGen2_ep1.mp3" length="68493943" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-ProGen2-ep27</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:28 -0000</pubDate>
       <itunes:duration>01:10:18</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[타깃발굴/②필터]Pancreatic Targets (Guo)</title>
       <description>논문 「Integrative genomic identification of therapeutic targets for pancreatic cancer (췌장암 치료 표적의 통합 유전체 발굴)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/PancreaticTargets_ep1.mp3" length="70251795" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/PancreaticTargets_ep1.mp3" length="70251795" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-PancreaticTargets-ep26</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:28 -0000</pubDate>
       <itunes:duration>01:12:08</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[타깃발굴/②필터]Open Targets Platform</title>
       <description>논문 「The next-generation Open Targets Platform: reimagined, redesigned, rebuilt (차세대 Open Targets 플랫폼: 재구상, 재설계, 재구축)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/OpenTargets_ep1.mp3" length="73101451" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/OpenTargets_ep1.mp3" length="73101451" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-OpenTargets-ep25</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:27 -0000</pubDate>
       <itunes:duration>01:15:06</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[target_discovery/G1]NicheNet</title>
       <description>논문 「NicheNet: modeling intercellular communication by linking ligands to target genes (니치넷: 리간드를 표적 유전자에 연결해 세포 간 소통을 모델링하기)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/NicheNet_ep1.mp3" length="69775363" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/NicheNet_ep1.mp3" length="69775363" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-NicheNet-ep24</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:27 -0000</pubDate>
       <itunes:duration>01:11:38</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[타깃발굴/③앵커]NNMT-CAF</title>
       <description>논문 「NNMT inhibition in cancer-associated fibroblasts restores antitumour immunity (암 관련 섬유아세포(CAF)에서 NNMT를 억제하면 항암 면역이 회복된다)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/NNMT_ep1.mp3" length="71024219" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/NNMT_ep1.mp3" length="71024219" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-NNMT-ep23</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:27 -0000</pubDate>
       <itunes:duration>01:12:56</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[study]KRONOS</title>
       <description>논문 「KRONOS: A Foundation Model for Spatial Proteomics (KRONOS: 공간 단백질체학을 위한 파운데이션 모델)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/KRONOS_ep1.mp3" length="65875327" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/KRONOS_ep1.mp3" length="65875327" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-KRONOS-ep22</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:27 -0000</pubDate>
       <itunes:duration>01:07:35</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[valted_and_dawson]HIFseq</title>
-      <description>논문 「Dissecting the molecular landscape of Parkinson&#x27;s disease and Parkinson&#x27;s disease dementia using highly efficient snRNA-seq (HIF-snRNA-seq) (고효율 단일핵 RNA 시퀀싱을 이용한 파킨슨병 및 파킨슨병 치매의 분자적 지형 해부)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/HIFseq_ep1.mp3" length="65126899" type="audio/mpeg"/>
+      <description>논문 「Dissecting the molecular landscape of Parkinson's disease and Parkinson's disease dementia using highly efficient snRNA-seq (HIF-snRNA-seq) (고효율 단일핵 RNA 시퀀싱을 이용한 파킨슨병 및 파킨슨병 치매의 분자적 지형 해부)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/HIFseq_ep1.mp3" length="65126899" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-HIFseq-ep21</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:27 -0000</pubDate>
       <itunes:duration>01:06:48</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[target_discovery/G2]GraphST</title>
       <description>논문 「Spatially informed clustering, integration, and deconvolution of spatial transcriptomics with GraphST (GraphST: 공간 전사체의 공간정보 기반 군집화·통합·디컨볼루션)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/GraphST_ep1.mp3" length="70409420" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/GraphST_ep1.mp3" length="70409420" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-GraphST-ep20</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:26 -0000</pubDate>
       <itunes:duration>01:12:18</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[타깃발굴/①찾기]GPNMB CAR-T</title>
       <description>논문 「AI-driven discovery of GPNMB CAR T cells as a multi-cancer therapy (AI로 발굴한 GPNMB CAR-T 세포, 다중 암종 치료제)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/GPNMB_ep1.mp3" length="70769224" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/GPNMB_ep1.mp3" length="70769224" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-GPNMB-ep19</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:26 -0000</pubDate>
       <itunes:duration>01:12:41</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[protein_design/구조예측]ESMFold</title>
       <description>논문 「Evolutionary-scale prediction of atomic level protein structure with a language model (진화적 규모의 언어 모델로 원자 수준 단백질 구조 예측하기 — ESM-2/ESMFold)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ESMFold_ep1.mp3" length="71239486" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ESMFold_ep1.mp3" length="71239486" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-ESMFold-ep18</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:26 -0000</pubDate>
       <itunes:duration>01:13:10</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[protein_design/파운데이션모델]ESM3</title>
       <description>논문 「Simulating 500 million years of evolution with a language model (언어 모델로 5억 년의 진화를 시뮬레이션하다)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ESM3_ep1.mp3" length="70988233" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ESM3_ep1.mp3" length="70988233" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-ESM3-ep17</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:26 -0000</pubDate>
       <itunes:duration>01:12:54</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[protein_design/파운데이션모델]ESM1b</title>
       <description>논문 「Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences (2억 5천만 개 단백질 서열에 대한 비지도 학습을 확장하자 생물학적 구조와 기능이 저절로 드러난다)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ESM1b_ep1.mp3" length="70387325" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ESM1b_ep1.mp3" length="70387325" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-ESM1b-ep16</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:26 -0000</pubDate>
       <itunes:duration>01:12:17</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[타깃발굴/③앵커]ENLIGHT-DeepPT</title>
-      <description>논문 「A deep-learning framework to predict cancer treatment response from histopathology images through imputed transcriptomics (조직병리 이미지에서 유전자 발현을 &#x27;상상&#x27;해 항암 치료 반응을 예측하는 딥러닝 프레임워크 — ENLIGHT–DeepPT)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ENLIGHTDeepPT_ep1.mp3" length="76347866" type="audio/mpeg"/>
+      <description>논문 「A deep-learning framework to predict cancer treatment response from histopathology images through imputed transcriptomics (조직병리 이미지에서 유전자 발현을 '상상'해 항암 치료 반응을 예측하는 딥러닝 프레임워크 — ENLIGHT–DeepPT)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ENLIGHTDeepPT_ep1.mp3" length="76347866" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-ENLIGHTDeepPT-ep15</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:26 -0000</pubDate>
       <itunes:duration>01:18:29</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[타깃발굴/②필터]Druggable Filter</title>
       <description>논문 「Druggable Filter: 발굴한 타깃 후보를 tractability와 안전성으로 거르는 필터 로직 (Druggable Filter: filtering discovered target candidates by tractability and safety)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/DrugFilter_ep1.mp3" length="71443033" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/DrugFilter_ep1.mp3" length="71443033" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-DrugFilter-ep14</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:25 -0000</pubDate>
       <itunes:duration>01:13:23</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[target_discovery/G1]DeconvCCC</title>
       <description>논문 「Deconvoluting single-cell transcriptomics reveals cellular programs regulated by cell-cell communication in colorectal cancer (단일세포 전사체를 분해해 대장암에서 세포-세포 소통이 조절하는 세포 프로그램을 밝히다)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/DeconvCCC_ep1.mp3" length="75072653" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/DeconvCCC_ep1.mp3" length="75072653" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-DeconvCCC-ep13</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:25 -0000</pubDate>
       <itunes:duration>01:17:09</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[protein_design/구조예측]ColabFold</title>
       <description>논문 「ColabFold: 단백질 폴딩을 모두에게 접근 가능하게 만들기 (ColabFold: making protein folding accessible to all)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ColabFold_ep1.mp3" length="73177922" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ColabFold_ep1.mp3" length="73177922" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-ColabFold-ep12</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:25 -0000</pubDate>
       <itunes:duration>01:15:11</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[타깃발굴/③앵커]Clinical Prioritization</title>
       <description>논문 「Clinical Prioritization: 치료반응·예후로 타깃 후보의 최종 순위를 매기는 앵커 로직 (Clinical Prioritization: an anchor logic for final ranking of target candidates by treatment response and prognosis)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ClinicalRank_ep1.mp3" length="70006127" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/ClinicalRank_ep1.mp3" length="70006127" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-ClinicalRank-ep11</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:25 -0000</pubDate>
       <itunes:duration>01:11:53</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[타깃발굴/①찾기]CellPhoneDB v5</title>
       <description>논문 「CellPhoneDB v5: inferring cell-cell communication from single-cell multiomics data (CellPhoneDB v5: 단일세포 멀티오믹스 데이터로 세포-세포 소통 추론하기)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/CellPhoneDB_ep1.mp3" length="67439809" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/CellPhoneDB_ep1.mp3" length="67439809" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-CellPhoneDB-ep10</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:24 -0000</pubDate>
       <itunes:duration>01:09:12</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[target_discovery/G1]CellNEST</title>
       <description>논문 「CellNEST reveals cell–cell relay networks using attention mechanisms on spatial transcriptomics (공간 전사체 데이터에 어텐션 메커니즘을 적용해 세포–세포 릴레이 통신망을 밝혀내는 CellNEST)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/CellNEST_ep1.mp3" length="62932170" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/CellNEST_ep1.mp3" length="62932170" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-CellNEST-ep9</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:24 -0000</pubDate>
       <itunes:duration>01:04:31</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[target_discovery/G1]COMMOT</title>
       <description>논문 「Screening cell–cell communication in spatial transcriptomics via collective optimal transport (COMMOT: 집단 최적수송으로 공간 전사체에서 세포 간 소통을 스크리닝하기)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/COMMOT_ep1.mp3" length="64840539" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/COMMOT_ep1.mp3" length="64840539" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-COMMOT-ep8</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:24 -0000</pubDate>
       <itunes:duration>01:06:30</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[target_discovery/G1]CAFmetabolic</title>
       <description>논문 「Single-cell and spatial-resolved profiling reveals cancer-associated fibroblast heterogeneity in colorectal cancer metabolic subtypes (단일세포·공간전사체 프로파일링으로 밝힌 대장암 대사 아형별 암연관 섬유아세포 이질성)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/CAFmetabolic_ep1.mp3" length="65695329" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/CAFmetabolic_ep1.mp3" length="65695329" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-CAFmetabolic-ep7</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:24 -0000</pubDate>
       <itunes:duration>01:07:23</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[protein_design/구조예측]Boltz1</title>
       <description>논문 「Boltz-1: Democratizing Biomolecular Interaction Modeling (볼츠-1: 생체분자 상호작용 모델링의 민주화)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/Boltz1_ep1.mp3" length="70766288" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/Boltz1_ep1.mp3" length="70766288" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-Boltz1-ep6</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:24 -0000</pubDate>
       <itunes:duration>01:12:40</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[target_discovery/G2]BayesSpace</title>
       <description>논문 「Spatial transcriptomics at subspot resolution with BayesSpace (BayesSpace로 아공간(subspot) 해상도의 공간 전사체 분석)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/BayesSpace_ep1.mp3" length="68559897" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/BayesSpace_ep1.mp3" length="68559897" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-BayesSpace-ep5</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:24 -0000</pubDate>
       <itunes:duration>01:10:22</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[target_discovery/G2]BANKSY</title>
       <description>논문 「BANKSY unifies cell typing and tissue domain segmentation for scalable spatial omics data analysis (BANKSY: 세포 유형 분류와 조직 도메인 분할을 하나로 통합하는 확장가능한 공간 오믹스 분석 알고리즘)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/BANKSY_ep1.mp3" length="67570272" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/BANKSY_ep1.mp3" length="67570272" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-BANKSY-ep4</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:23 -0000</pubDate>
       <itunes:duration>01:09:21</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[protein_design/구조예측]AlphaFold3</title>
       <description>논문 「Accurate structure prediction of biomolecular interactions with AlphaFold 3 (알파폴드 3로 생체분자 상호작용 구조를 정확히 예측하기)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/AlphaFold3_ep1.mp3" length="63568650" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/AlphaFold3_ep1.mp3" length="63568650" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-AlphaFold3-ep3</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:23 -0000</pubDate>
       <itunes:duration>01:05:11</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[protein_design/구조예측]AlphaFold2</title>
       <description>논문 「Highly accurate protein structure prediction with AlphaFold (AlphaFold을 이용한 고정확도 단백질 구조 예측)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/AlphaFold2_ep1.mp3" length="75648891" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/AlphaFold2_ep1.mp3" length="75648891" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-AlphaFold2-ep2</guid>
       <pubDate>Fri, 31 Jul 2026 18:34:23 -0000</pubDate>
       <itunes:duration>01:17:46</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
     <item>
       <title>[solo] HER2 정량 연속 스코어링(QCS) — HER2 음성 유방암 T-DXd 반응자 선별</title>
       <description>논문 「HER2 quantitative continuous scoring for accurate patient selection in HER2 negative trastuzumab deruxtecan treated breast cancer (HER2 정량적 연속 스코어링(QCS)을 통한, HER2 음성 유방암에서 트라스투주맙 데룩스테칸 치료 대상 환자의 정확한 선별)」을(를) 고등학생 눈높이로 끝까지 파헤친 대화형 에피소드.</description>
-      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/HER2_QCS_ep1.mp3" length="78783124" type="audio/mpeg"/>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/HER2_QCS_ep1.mp3" length="78783124" type="audio/mpeg" />
       <guid isPermaLink="false">paperpodcast-HER2_QCS-ep1</guid>
       <pubDate>Fri, 31 Jul 2026 18:32:38 -0000</pubDate>
       <itunes:duration>02:09:39</itunes:duration>
-      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png"/>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
     </item>
   </channel>
 </rss>
