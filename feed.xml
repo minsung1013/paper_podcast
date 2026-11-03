@@ -4,7 +4,7 @@
     <title>논문을 파헤치는 시간</title>
     <link>https://minsung1013.github.io/paper_podcast</link>
     <language>ko</language>
-    <lastBuildDate>Tue, 03 Nov 2026 20:20:45 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 20:21:54 -0000</lastBuildDate>
     <description>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</description>
     <itunes:author>클로드 · 용식</itunes:author>
     <itunes:summary>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</itunes:summary>
@@ -16,6 +16,24 @@
       <title>논문을 파헤치는 시간</title>
       <link>https://minsung1013.github.io/paper_podcast</link>
     </image>
+    <item>
+      <title>[solo] BigHat — 제약 조건을 지키는 항체 베이지안 최적화</title>
+      <description>논문 원문 순서와 주요 그림·표를 따라 설명하는 한국어 단독 내레이터 에피소드. 계산 예측과 실제 실험 결과, 연구의 한계를 구분합니다.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/bighat-constrained-antibody-bo_ep1.mp3" length="33100996" type="audio/mpeg" />
+      <guid isPermaLink="false">paperpodcast-bighat-constrained-antibody-bo-ep1</guid>
+      <pubDate>Tue, 03 Nov 2026 20:21:41 -0000</pubDate>
+      <itunes:duration>00:33:26</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
+    </item>
+    <item>
+      <title>[solo] BigHat LaMBO — 여러 성질을 함께 개선하는 분자 설계</title>
+      <description>논문 원문 순서와 주요 그림·표를 따라 설명하는 한국어 단독 내레이터 에피소드. 계산 예측과 실제 실험 결과, 연구의 한계를 구분합니다.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/bighat-denoising-autoencoder-sequence-bo_ep1.mp3" length="29809985" type="audio/mpeg" />
+      <guid isPermaLink="false">paperpodcast-bighat-denoising-autoencoder-sequence-bo-ep1</guid>
+      <pubDate>Tue, 03 Nov 2026 20:21:19 -0000</pubDate>
+      <itunes:duration>00:30:01</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
+    </item>
     <item>
       <title>[solo] BigHat — 세 가지 확산 모델을 하나로 연결하는 집단유전학</title>
       <description>논문 원문 순서와 주요 그림·표를 따라 설명하는 한국어 단독 내레이터 에피소드. 계산 예측과 실제 실험 결과, 연구의 한계를 구분합니다.</description>
