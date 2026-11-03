@@ -4,7 +4,7 @@
     <title>논문을 파헤치는 시간</title>
     <link>https://minsung1013.github.io/paper_podcast</link>
     <language>ko</language>
-    <lastBuildDate>Tue, 03 Nov 2026 20:12:42 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 20:17:50 -0000</lastBuildDate>
     <description>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</description>
     <itunes:author>클로드 · 용식</itunes:author>
     <itunes:summary>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</itunes:summary>
@@ -16,6 +16,24 @@
       <title>논문을 파헤치는 시간</title>
       <link>https://minsung1013.github.io/paper_podcast</link>
     </image>
+    <item>
+      <title>[solo] BigHat — 마스킹 언어 모델로 항체 후보를 고르는 법</title>
+      <description>논문 원문 순서와 주요 그림·표를 따라 설명하는 한국어 단독 내레이터 에피소드. 계산 예측과 실제 실험 결과, 연구의 한계를 구분합니다.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/bighat-masked-lm-protein-engineering_ep1.mp3" length="53235327" type="audio/mpeg" />
+      <guid isPermaLink="false">paperpodcast-bighat-masked-lm-protein-engineering-ep1</guid>
+      <pubDate>Tue, 03 Nov 2026 20:17:04 -0000</pubDate>
+      <itunes:duration>00:54:25</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
+    </item>
+    <item>
+      <title>[solo] BigHat 2021 — 단백질 설계 모델을 제대로 평가하는 법</title>
+      <description>논문 원문 순서와 주요 그림·표를 따라 설명하는 한국어 단독 내레이터 에피소드. 계산 예측과 실제 실험 결과, 연구의 한계를 구분합니다.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/bighat-surrogate-models-protein-bo_ep1.mp3" length="28413600" type="audio/mpeg" />
+      <guid isPermaLink="false">paperpodcast-bighat-surrogate-models-protein-bo-ep1</guid>
+      <pubDate>Tue, 03 Nov 2026 20:13:52 -0000</pubDate>
+      <itunes:duration>00:28:33</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
+    </item>
     <item>
       <title>[solo] Origin-1 — 새로운 에피토프를 겨냥하는 항체 설계</title>
       <description>논문 원문 순서와 주요 그림·표를 따라 설명하는 한국어 단독 내레이터 에피소드. 계산 예측과 실제 실험 결과, 연구의 한계를 구분합니다.</description>
