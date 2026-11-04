@@ -1,0 +1,30 @@
+{
+  "company": "Chai Discovery",
+  "title": "Zero-shot antibody design in a 24-well plate",
+  "authors": [
+    "Chai Discovery Team",
+    "Jacques Boitreaud",
+    "Jack Dent",
+    "Danny Geisz",
+    "Matthew McPartlon",
+    "Joshua Meier",
+    "Zhuoran Qiao",
+    "Alex Rogozhnikov",
+    "Nathan Rollins",
+    "Paul Wollenhaupt",
+    "Kevin Wu"
+  ],
+  "publication_date": "2025-07-06 bioRxivposting;2025-06-30companylaunch",
+  "version": "bioRxiv2025.07.05.663018v1,downloadedofficialtechnical_report.pdf",
+  "venue": "bioRxiv preprint",
+  "source_type": "Company technical report alsopostedbioRxiv;notpeerreviewed",
+  "url": "https://chaiassets.com/chai-2/paper/technical_report.pdf",
+  "doi": "10.1101/2025.07.05.663018",
+  "official_company_page": "https://www.chaidiscovery.com/news/introducing-chai-2",
+  "selection_reason": "CoreChai2design/foldingmodelreportwithtrainingcutoff,targetselection,52targetantibodyvalidation,experimentalmethodsandcontrollablecrossspeciesbinding;moremethodrichthanproductChai3announcements;laterChai2challenging-targetsreportexcludedfromclaims",
+  "company_relationship": "Corporateauthorand10companycontributors,officialresearchlaunchlinksidenticalPDF",
+  "pdf_path": "/Users/minsung.choi/bioeu/protein/papers/chai2-zero-shot-antibody.pdf",
+  "slug": "chai2-zero-shot-antibody",
+  "pages": 22,
+  "sha256": "72f69dbcb61cd6fc5d79ca833fade556a2bd49279ceb52acfdfc8242034373e8"
+}
