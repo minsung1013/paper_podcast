@@ -4,7 +4,7 @@
     <title>논문을 파헤치는 시간</title>
     <link>https://minsung1013.github.io/paper_podcast</link>
     <language>ko</language>
-    <lastBuildDate>Wed, 04 Nov 2026 08:51:45 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 08:52:39 -0000</lastBuildDate>
     <description>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</description>
     <itunes:author>클로드 · 용식</itunes:author>
     <itunes:summary>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</itunes:summary>
@@ -16,6 +16,24 @@
       <title>논문을 파헤치는 시간</title>
       <link>https://minsung1013.github.io/paper_podcast</link>
     </image>
+    <item>
+      <title>[solo] Latent — Latent-X2, 결합과 물성에서 사람 면역세포 검사까지</title>
+      <description>논문 원문 순서와 주요 그림·표를 따라 설명하는 한국어 단독 내레이터 에피소드. 계산 예측과 실제 실험 결과, 연구의 한계를 구분합니다.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/latent-x2_ep1.mp3" length="29259125" type="audio/mpeg" />
+      <guid isPermaLink="false">paperpodcast-latent-x2-ep1</guid>
+      <pubDate>Wed, 04 Nov 2026 08:51:46 -0000</pubDate>
+      <itunes:duration>00:29:26</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
+    </item>
+    <item>
+      <title>[solo] Profluent — 단백질 언어 모델을 키우면 무엇이 달라질까, ProGen3</title>
+      <description>논문 원문 순서와 주요 그림·표를 따라 설명하는 한국어 단독 내레이터 에피소드. 계산 예측과 실제 실험 결과, 연구의 한계를 구분합니다.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/profluent-progen3-scaling_ep1.mp3" length="28033674" type="audio/mpeg" />
+      <guid isPermaLink="false">paperpodcast-profluent-progen3-scaling-ep1</guid>
+      <pubDate>Wed, 04 Nov 2026 08:51:17 -0000</pubDate>
+      <itunes:duration>00:28:10</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
+    </item>
     <item>
       <title>[solo] Galux — 항체 후보 쉰 개에서 무엇을 검증했나</title>
       <description>논문 원문 순서와 주요 그림·표를 따라 설명하는 한국어 단독 내레이터 에피소드. 계산 예측과 실제 실험 결과, 연구의 한계를 구분합니다.</description>

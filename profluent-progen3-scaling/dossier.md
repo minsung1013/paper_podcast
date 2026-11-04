@@ -1,0 +1,47 @@
+# Profluent / ProGen3 source and evidence dossier
+
+## Provenance
+- Companyofficialhttps://www.profluent.bio/showcase/progen3(16Apr2025)introducesmodelwithdirectpreprintlink.All10authorsProfluentaffiliated,interestsdeclarecurrent/formeremployees/contractors/executives.Thisiscompanyresearch,notAliMadani'searlierSalesforceProGenpapercalledcompanytech.
+- Actualofficialhosted30pPDF https://storage.googleapis.com/opencrispr/progen3_preprint.pdf .DOI10.1101/2025.04.15.649055;actualPDFsaysPreprint,noembeddeddate/versionnumber;do notassertv2dateorpeerreviewstatus.V2biorxivlistingexistsbutdownloadversioncannotidentifyfromfirstpage.
+- Actualmaintextpp1–9andappendicesA–Epp18–30read;referencebibliographybroadlyconsultedbutnotallcitationcontent.CoreFigure1p3,Figure2p5,Figure3p6,Figure4p7renderedandvisuallyinspected. AppendixmethodsEexpression/SDS-PAGEread.
+
+## Technical anchors
+- AutoregressiveN→C/C→Nplusmiddle-spansentinelinfilling;context8192;8models112M–46Bparameters.SparseMoE8experts/2activeperlayer,~27%active,46Btotal12.6Bactive.Donotconfusetotalvsactive.
+- PPA112.16Braw→3.396Bfilteredfull-lengthproteins,1.1Ttokens.Repeat/fragments/lengthfilters;datasetisnotallfunctionalwetconfirmedproteins.
+- DiversityresamplingUniform/Sqrt/InverseLog/Unmodified. InverseLogbestdistant30/50%identityvalidation,Unmodifiedbest90%near,Uniformworst;not'maxdiversityalwaysbest'.
+- Largestmodel1.5Ttrainingtokensvs1.1Tuniquecorpustokensresamplingdifferentdenominators.Modelsize+data+computeallvaryscalestudy,notisolatedparametercausality.
+- Scalingpredicted90B/753Btokensbutpractical46B/1.5Tselectedforinference4A10040GB;observedloss1.345beatsfittedprediction1.397;warmupchangeplausibleconfound.
+
+## Generation evidence
+- Generate4M/3M/2Msequences339M/3B/46B;postqualityfilterslowcomplexity<=25%,terminationtoken,>80%coveragefilterforfirststudy. Followup<30%IDnovelstudyseparate.
+- MainFig2wetclusters42commonall3,62shared3Band46B,45only46B=149selectedclusters;one40–60%ID+one60–80%IDsequencepergeneratingmodelpercluster,lowestperplexityselection;2naturalcontrols/cluster,length75–300aa. Theseareselectedclusters/candidates,notallgeneratedsequencesorunbiasedrandomhit-rate.
+- Keyconclusion**similarwithin-clusterexpressionratesbutwiderfamilycoverageforlargermodels**,notuniversalexpressionrateincrease.
+- Fig3novelsequences90=3models×3secondarycategories×10;<30%IDorunalignedtonaturals;chosenwithESMFoldsecondaryclass;expressionratescomparable,levelslargehigher.Novelsequencenotequalnovelfold.
+- Infills18scaffolds(9applicationrelated+9Ecoli),short/longspans;each2candidates/model;meanexpressionbelowWT,46Bslightlybetterthan3B.Notactualfunction/affinityvalidation.
+- Actualmaintext3.3p6hasnonsensical'Elevenof18fromE.coli...maynotbeexpectedtoexpresswell'avoidrepeatingit.
+
+## Alignment evidence
+- Zero-shotProteinGymlikelihood-fitnesscanworsenbeyond3B;naturaldistributionmodelingnotidenticalfitness.
+- IRPOpreferenceswithreferencepenalty+bestsequenceNLLregularizer;tradeoffretainingbroadknowledgeandtaskfitness(AppDtable7).
+- 8ProteinGymassaysnearWTtrain>=500sequences,moredistanttest.Fiveallowedsinglemutation-onlytraining,othersmulti;scriptdoesnotclaimall8singlemutant-only.
+- AverageSpearmanProGen3aligned46B.673,KERMUT.628,ConFit.679(notbeatsall).
+- Megascale~800ksingle/doublevariants479domains;structuralcluster5%val5%test;trainonlysingles;overallrho.737vsProteinDPO.72;multirho.820vs.468underthissplit,notgeneralstructureirrelevanceproof.
+- 32naturalprompts98–282aa comparedwithtrainingdomains40–72aa;generate75%from25%prefix/suffix;50kgenerations/model/prompt→top100forcomputationalRosettacharacterization. Thesearepredictedstructure/REU,notmeasuredTm.
+- Actualwetgenerationalignmenttest:2lowestPPLcandidates/pretrained46B&aligned46B/per32prompts;splitGFPnormalizedWT;8/32improved,3/32worse,21/32notstatisticallydifferent(p<.01reported). **Directmeasurementisexpression**,notallproteinsdirectstabilityΔG/Tm. Paperinterpretationstabilityshouldbequalified.
+
+## Assay / denominators / limitations
+- EcoliproductionfollowedbylysatesplitGFPbroaderassay;comparedcoinductionwholecellvssequential/lysate;functionalcell/animal/clinicalvalidationnotshown.
+- splitGFPabundanceinfluencedbymRNA/translation/stability/proteolysis/aggregation/toxicity;cannotidentifyuniquecausestability.
+- SDS-PAGEvalidationtopquartile19/23expectedbands,bottom0/22;fourtopnotcorrectbands(twoabsent,twoimpropergelmigration). Appendixsays88proteinselsewhereFig8caption92;scriptdoesnotclaimtotal88or92. Source'r2=-.27'oddnegativeR2avoidnumericalinterpretation.
+- OfficialcompanyOpenAntibodies/OpenCRISPRclaimsnotimportedasthispaperwetresults.Noantibodyspecificbinding/CRISPRcellfunction/animal/clinicaldemonstrationinthispaper.
+- Companyspecificrelationstrong;researchscopefoundationmodelratherthancurrentallpipeline.
+
+## Figure oral anchors
+Fig1generation/MoE/datasampling/scalingcurves;Fig2validfilters/coverage/clusterexpression;Fig3novel+infillexpression;Fig4zero-shotvsalignmentpredictionandRosetta/wet32promptscatter;AppendixFig5warmup;Fig6assayspecific;Fig7–10expressionassayvalidation.
+
+## Primary backgrounds verified
+- Fedus,Zoph,Shazeer2022SwitchTransformers https://www.jmlr.org/papers/v23/21-0998.html (sparseexpertroutingbackground,notproteinresults).
+- Cabantousetal2005splitGFP https://pubmed.ncbi.nlm.nih.gov/15580262/ .
+
+## Delivery
+MainspokenHangul8144inclheadings,39narratorparagraphs,H1/title/pron/source/fulltextcomplete.Noaudio/publicationbychild.RootQC/render.

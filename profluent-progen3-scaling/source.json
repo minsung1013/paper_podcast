@@ -1,0 +1,27 @@
+{
+  "company": "Profluent",
+  "title": "Scaling unlocks broader generation and deeper functional understanding of proteins",
+  "authors": [
+    "Aadyot Bhatnagar",
+    "Sarthak Jain",
+    "Joel Beazer",
+    "Samuel C. Curran",
+    "Alexander M. Hoffnagle",
+    "Kyle Ching",
+    "Michael Martyn",
+    "Stephen Nayfach",
+    "Jeffrey A. Ruffolo",
+    "Ali Madani"
+  ],
+  "date": "2025; official introduction16Apr2025; hosted PDF has no embedded publication date",
+  "version": "Official company-hosted30-pagepreprint retrieved2026-11-04; explicitversionnumbernotprinted",
+  "venue": "bioRxiv preprint; notassertingpeer-reviewedpublication",
+  "url": "https://www.biorxiv.org/content/10.1101/2025.04.15.649055",
+  "pdf_url": "https://storage.googleapis.com/opencrispr/progen3_preprint.pdf",
+  "selection_reason": "Company-developedProGen3foundationmodel,datasetbalancing/sparsearchitecture/scalinglaws,largeexperimentalexpressionpanelandalignmentmethods;companydirectrelationandrichmethods/evidence. EarlierSalesforceProGenworknotusedascompanysubstitute.",
+  "document_type": "scientificpreprint",
+  "company_relationship": "AllauthorsProfluentaffiliationonfirstpage;current/formeremployees/contractors/executivespercompetinginterest;officialshowcaseintroducestheirmodelandlinkspaper.",
+  "company_source": "https://www.profluent.bio/showcase/progen3",
+  "pdf_path": "/Users/minsung.choi/bioeu/protein/papers/profluent-progen3-scaling.pdf",
+  "slug": "profluent-progen3-scaling"
+}
