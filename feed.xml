@@ -4,7 +4,7 @@
     <title>논문을 파헤치는 시간</title>
     <link>https://minsung1013.github.io/paper_podcast</link>
     <language>ko</language>
-    <lastBuildDate>Tue, 03 Nov 2026 20:26:45 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 08:45:23 -0000</lastBuildDate>
     <description>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</description>
     <itunes:author>클로드 · 용식</itunes:author>
     <itunes:summary>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</itunes:summary>
@@ -16,6 +16,24 @@
       <title>논문을 파헤치는 시간</title>
       <link>https://minsung1013.github.io/paper_podcast</link>
     </image>
+    <item>
+      <title>[solo] Isomorphic Labs — 아이소디디이의 구조·결합력·숨은 포켓 예측</title>
+      <description>논문 원문 순서와 주요 그림·표를 따라 설명하는 한국어 단독 내레이터 에피소드. 계산 예측과 실제 실험 결과, 연구의 한계를 구분합니다.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/isomorphic-isodde_ep1.mp3" length="28966558" type="audio/mpeg" />
+      <guid isPermaLink="false">paperpodcast-isomorphic-isodde-ep1</guid>
+      <pubDate>Tue, 03 Nov 2026 21:23:53 -0000</pubDate>
+      <itunes:duration>00:29:08</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
+    </item>
+    <item>
+      <title>[solo] Nabla — JAM-2, 원하는 표면을 겨냥하는 항체와 제작 적합성</title>
+      <description>논문 원문 순서와 주요 그림·표를 따라 설명하는 한국어 단독 내레이터 에피소드. 계산 예측과 실제 실험 결과, 연구의 한계를 구분합니다.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/nabla-jam2_ep1.mp3" length="30989057" type="audio/mpeg" />
+      <guid isPermaLink="false">paperpodcast-nabla-jam2-ep1</guid>
+      <pubDate>Tue, 03 Nov 2026 21:23:45 -0000</pubDate>
+      <itunes:duration>00:31:14</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
+    </item>
     <item>
       <title>[solo] BigHat — 실험 피드백과 예측 구조로 항체를 반복 개선하기</title>
       <description>논문 원문 순서와 주요 그림·표를 따라 설명하는 한국어 단독 내레이터 에피소드. 계산 예측과 실제 실험 결과, 연구의 한계를 구분합니다.</description>

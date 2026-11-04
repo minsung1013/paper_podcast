@@ -1,0 +1,17 @@
+{
+  "company": "Isomorphic Labs",
+  "title": "Accurate Predictions of Novel Biomolecular Interactions with IsoDDE",
+  "authors": [
+    "Isomorphic Labs Team"
+  ],
+  "date": "2026-02-10",
+  "version": "official technical report",
+  "venue": null,
+  "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
+  "pdf_url": "https://storage.googleapis.com/isomorphiclabs-website-public-artifacts/isodde_technical_report.pdf",
+  "selection_reason": "현재회사엔진의구조·항체접촉·소분자친화도·포켓예측을직접평가한가장직접적인공개자료. 정식논문과구별.",
+  "material_type": "company technical report; not identified as peer-reviewed journal article",
+  "company_relation": "Isomorphic Labs Team 저술, 회사공식PDF. AF3 공동개발의별개후속엔진.",
+  "pdfpath": "/Users/minsung.choi/bioeu/protein/papers/isomorphic-isodde.pdf",
+  "slug": "isomorphic-isodde"
+}

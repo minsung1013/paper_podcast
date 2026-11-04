@@ -1,0 +1,19 @@
+{
+  "company": "Nabla Bio",
+  "title": "JAM-2: Fully computational design of drug-like antibodies with high success rates",
+  "authors": [
+    "Nabla Bio"
+  ],
+  "publication_date": "2025 (no exact date printed in PDF)",
+  "version": "Undesignated company PDF; PDF metadata ModDate 2025-11-25T17:17:03Z",
+  "venue": null,
+  "source_type": "company technical report; peer review not established",
+  "url": "https://nabla-public.s3.us-east-1.amazonaws.com/2025_Nabla_JAM2.pdf",
+  "official_company_page": "https://www.nabla.bio/",
+  "selection_reason": "Official report directly describes JAM-2 de novo antibody design, target/epitope breadth, native-cell GPCR binding and broad developability validation. Core architecture only partly disclosed; do not invent it.",
+  "company_relationship": "Corporate author and official company-hosted report, directly linked from platform homepage",
+  "pdf_path": "/Users/minsung.choi/bioeu/protein/papers/nabla-jam2.pdf",
+  "slug": "nabla-jam2",
+  "pages": 46,
+  "sha256": "e965cfa2615b17578483062bbef4e9b4b20388527d84d836fc2cef4320dd4444"
+}

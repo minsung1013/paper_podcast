@@ -1,0 +1,76 @@
+# Nabla JAM-2 source dossier
+
+## Provenance / exact scope
+
+Official company homepage links directly to the46pagecorporate report storedinpapers/nabla-jam2.pdf. CorporateauthorNablaBio; nojournal/DOI orpeerreviewstatusprinted. PDFyear2025infilename;exactdateunprinted,ModDate2025-11-25notpublicationdate. Do notmisidentifythisasJanuary2025JAMpaperortheMay2025test-timecomputeGPCRpaper. ReportisrepresentativebecauseitcoverscurrentJAM2antibodydesignbroadlywithmAb/VHHFc,epitopebreadth,cellGPCRbindinganddevelopability. Internalarchitecture/loss/trainingcompositionarenotsufficientlydisclosedforreproduction;scriptdoesnotinventdiffusion/JAMmodules/trainingcounts.
+
+SourceJSONhasexacttitle,author,datequalification,URL,officialrelation,PDFpath,slug,SHA256.
+
+## Actual order and page anchors
+
+- p1abstract;pp2–3intro.
+- pp4–6Fig1/TargetSet1:16unseentargets,45designs/format/target.
+- pp7–8Fig2/TargetSet2:10targets,20epitopeseach,~600VHHdesigns/epitope.
+- pp9–11Fig3GPCR:CXCR4/CXCR7directoncellbinding.
+- pp11–13Fig4developability/novelty.
+- pp13–14Discussion,explicitmechanismclassificationnotdone.
+- pp15–23ExperimentalMethods;24–25references;26–46supplementalfiguresandcaptions.
+- Readallmaintext/methodsandsupplementalcaptions;coreFig1–4pages4,7,9,11,12renderedandvisuallyinspected. Supplementalpages32/46alsorendered. Imagesinfigures/.
+
+## Facts / denominators / interpretation
+
+### Set1
+
+16targetsselectedoverlapChai2butunseentrainingcloseAbAgcomplexhomologyperauthor.45VHH+45pairedVHVLdesignspertarget,expressedVHH-Fcorfull-lengthmAbExpiCHO. AllCDRs(IMGT)+limitedcontactingFR2/3residuesdesigned. Generatedrankedoutput;internalnumbergeneratednotpublished.
+
+Meanper-targethit39%VHHFc/18%mAb.100%targetcoverage**combinesformats**,noteachformatandnot100%designsuccess. TNFL9VHHFc0whilemAbrecovers;reporttargetcomplementarity.
+
+Affinitysubsetselectedup10hits/format/target.2/16pM,7/16singledigitnM,11/16doubledigitnMlabelsnotnecessarilyexclusive;scriptdoesnotsum. Fig1BLIactualKDswithfitQC;some<100pMslowdissociationnotexactvalues;avidityflaggedfornaturaloligomers.
+
+Chai2comparisonNOTcontrolledsameformat/assay:VHHFcvsVHH,mAbvsscfv;antigenreagents/candidatebudgetdiffer. CriticismsmadebyNablaareauthorinterpretations,notindependentlyprovenconfoundmagnitude.
+
+Team4people/<4weeksforSet1only,notdrugdevelopmenttimelineorrobotthroughput.
+
+### Set2
+
+10targets×20epitopes×~600rankedVHH=12,000/target;**largeyeastdisplayexperiment**,not45directmoleculesperpitope. Targetbinding100nM+noOVAclassification;lower1nMbinderselectedforrecombinantVHHFc,prioritizeepitopecoverage. Bestepitopehitrateacrosstargetsmedian29.5%;50%targets30–70%of20epitopessuccessful. Notuniformalltargets/allpatches.
+
+Targetbindingofepitope-conditioneddesignisnotatomicvalidationofintendedsiteforeachdesign. Predictedcompleximagesnotexperimentalstructures.
+
+All10targetsselectedrecombinantbinderssingle/doubledigitnM. Retrospectivetop45analysis6/10singledigitnM;notindependentprospective45-onlyexperiment.
+
+### GPCR
+
+CXCR4/CXCR7designedagainstorthostericpockets,noadditionaltargettrainingperauthor. Each~730VHHFcproducedviaExpiCHOandtestedonoverexpressingPathHuntercellsvsmatchedparentline,noECDproxyscreen.
+
+CXCR4**86/736=11.7%**,CXCR7**28/728=3.8%**,thresholdMFI≥3×background. Meanconcentrations.65µM/1.09µMnotallnMaffinity. Highest-foldsignals12–13selectedfortitration. TopCXCR4**1.4nM**,CXCR7**23nM**,notbothsingledigit.
+
+Reported“oncellKD”actuallyvariable-slopeEC50from8pointflowtitration,notpurifiedkineticKD. Parentbackgroundsubtracted,CIwithinorderofmagnitude. Receptordensity/aviditypossible. CrossbindingagainstthetwoGPCRsnotentireproteome.
+
+Discussionexplicitly**doesnotclassifyagonism/antagonism/signalingbias**. Do notimportfunctionaldatafromolderJAMreport. Pocketposeiscomputationalcondition,notallatomicexperimentalepitopemapping.
+
+### Developability
+
+Set1/2bindersassessed;**GPCRbindersnotincluded**. Nexpression923,monomericity341,hydrophobicity311,polyspecificity821,Tm165. Assaysdifferinavailability;missingpointsinsufficientmaterialornottestperformed.57%reportedall4criteriapassbutjointdenominatornotclearlyenumerated;cannotcall57%of923orallcomputeddesigns.
+
+Thresholdexpression≥50%concurrenttrastuzumab;SEC>90%(figure≥90%)afteronepurification;nopolishing;PAIAHICbelowSirukumab;BVPELISAbelowBococizumab. DSF65°CVHHFcnotin4primarycriteria. Humannessnearestgermlinesimilaritynotexvivopanelimmunogenicity.
+
+Novelty193double-digit-nMorbetterbinders:185>10%dissimilarnearestOAS/INDI/NR>3billionsequences;>95%targetalignedRMSD>10ÅnearestSAbDabcomplex. Noveltynotprooftrainingindependenceorstructureaccuracy.
+
+### Methods
+
+BinarySet1BLIantigenonHIS1Ksensor,500nMbinderinsupernatant,referencecorrectedresponse>.1nm. Laterpurifiedantibodyonsensor+7.8–500nMantigenkineticsmin3concentrations1:1globalfit. UsuallyR²>.95;ONCMexception>.90+visualinspection. SlowoffratesboundsnotexactKD;avidityexplicit.
+
+YeastFACS→enrichment→NGSreadcountswithECDFelbowthreshold;notallpointstestedindividually. GPCRcolonypickfromlargeoligopoolnotuniversalfullyranked730finalsequences.
+
+Methodssubheadingp22“KD evaluation -BiolayerInterferometry”incorrectlylabelsflowcytometryprotocol;scriptfollowactualprocedure. SupplementalFig4captioncallsSet1but20epitopeexperimentisSet2;donotpropagatelabel.
+
+## Primary background sources consulted
+
+- Jainetal.PNAS2017,[clinicalstageantibodybiophysicallandscape](https://pubmed.ncbi.nlm.nih.gov/28096333/):onlybriefcontextforbenchmarklogic;notclinicalguarantee.
+- Jähnichenetal.PNAS2010,[CXCR4nanobodyexperimentalstudy](https://pubmed.ncbi.nlm.nih.gov/21059953/):existingbenchmarkhistory;itsHIV/chemotaxis/invivofunctionnotascribedtoJAM2.
+- Companyofficiallink[homepage](https://www.nabla.bio/);exactreport[PDF](https://nabla-public.s3.us-east-1.amazonaws.com/2025_Nabla_JAM2.pdf).
+
+## Final script QC
+
+41narratorparagraphs,8863Hangulsyllablesinnarratorprose. H1parserheader,chapters,title.txt,pron.jsonpresent.8kminimumsatisfied. Noarchitecturefiction,clinicalclaim,exvivoimmunogenicityclaim,allGPCRdevelopabilityclaim,absoluteKDbeyondsource,ortrueheadtoheadalgorithmwinclaim. Audioandpublicationparentonly.
