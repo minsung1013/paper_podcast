@@ -4,7 +4,7 @@
     <title>논문을 파헤치는 시간</title>
     <link>https://minsung1013.github.io/paper_podcast</link>
     <language>ko</language>
-    <lastBuildDate>Wed, 04 Nov 2026 08:45:23 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 08:51:45 -0000</lastBuildDate>
     <description>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</description>
     <itunes:author>클로드 · 용식</itunes:author>
     <itunes:summary>전문가 클로드가 여러 배경 자료를 사전조사해, 학생 용식과 논문 한 편을 고등학생 눈높이로 끝까지 파고드는 대화형 팟캐스트.</itunes:summary>
@@ -16,6 +16,33 @@
       <title>논문을 파헤치는 시간</title>
       <link>https://minsung1013.github.io/paper_podcast</link>
     </image>
+    <item>
+      <title>[solo] Galux — 항체 후보 쉰 개에서 무엇을 검증했나</title>
+      <description>논문 원문 순서와 주요 그림·표를 따라 설명하는 한국어 단독 내레이터 에피소드. 계산 예측과 실제 실험 결과, 연구의 한계를 구분합니다.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/galux-precision-scale-antibody_ep1.mp3" length="30425632" type="audio/mpeg" />
+      <guid isPermaLink="false">paperpodcast-galux-precision-scale-antibody-ep1</guid>
+      <pubDate>Wed, 04 Nov 2026 08:51:10 -0000</pubDate>
+      <itunes:duration>00:30:39</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
+    </item>
+    <item>
+      <title>[solo] Cradle — 실험 결과를 배우며 단백질을 개선하는 CRADLE-1</title>
+      <description>논문 원문 순서와 주요 그림·표를 따라 설명하는 한국어 단독 내레이터 에피소드. 계산 예측과 실제 실험 결과, 연구의 한계를 구분합니다.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/cradle-1-lead-optimization_ep1.mp3" length="30187407" type="audio/mpeg" />
+      <guid isPermaLink="false">paperpodcast-cradle-1-lead-optimization-ep1</guid>
+      <pubDate>Wed, 04 Nov 2026 08:50:51 -0000</pubDate>
+      <itunes:duration>00:30:24</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
+    </item>
+    <item>
+      <title>[solo] Generate Biomedicines — 단백질의 가능한 모양을 프로그래밍하다, Chroma</title>
+      <description>논문 원문 순서와 주요 그림·표를 따라 설명하는 한국어 단독 내레이터 에피소드. 계산 예측과 실제 실험 결과, 연구의 한계를 구분합니다.</description>
+      <enclosure url="https://github.com/minsung1013/paper_podcast/releases/download/audio/generate-chroma-protein-design_ep1.mp3" length="29577203" type="audio/mpeg" />
+      <guid isPermaLink="false">paperpodcast-generate-chroma-protein-design-ep1</guid>
+      <pubDate>Wed, 04 Nov 2026 08:50:44 -0000</pubDate>
+      <itunes:duration>00:29:46</itunes:duration>
+      <itunes:image href="https://minsung1013.github.io/paper_podcast/cover_new.png" />
+    </item>
     <item>
       <title>[solo] Isomorphic Labs — 아이소디디이의 구조·결합력·숨은 포켓 예측</title>
       <description>논문 원문 순서와 주요 그림·표를 따라 설명하는 한국어 단독 내레이터 에피소드. 계산 예측과 실제 실험 결과, 연구의 한계를 구분합니다.</description>

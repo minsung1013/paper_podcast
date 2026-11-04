@@ -1,0 +1,39 @@
+# Generate / Chroma verification dossier
+
+## Provenance
+- Companyofficialhttps://generatebiomedicines.com/chroma/ andnewsrelease15Nov2023 explicitlyidentifyChromaastheirmodel andlinkNaturearticle. Actualpaperdeclaresallauthorsemployees/shareholdersGenerate;directcompanyresearch,notfounderpriorwork.
+- Nature6231070–1078;online15Nov2023,issue30Nov2023;DOI10.1038/s41586-023-06728-8;accepted6Oct2023. source.jsonrecordsall26authors.
+- ActualPDF15pagesfullyread:mainpp1–8,referencespp8–9,datacode/interests10;ExtendedTables11–12visuallyread;reportingforms13–15textnotextracted. CoreimagesFig3p5/Fig5p7andextendedtablesinspected.
+- StandaloneSI123pagesobtainedviaEuropePMCofficialsupplementaryFilesAPIbyroot:https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10686827/supplementaryFiles .ReviewedPDFpp8–11(Aoverview),49–50(G.2/G.3&Tables2/3),52–55(Htraining/Isampling),101–103(U.1–U.2.3/selection&splitGFP).No claimall123pagesread. Keyadditions:28819filterednonmembraneXraystructures,antibodyenrichment;backbone18.6M;hybridLangevinsampling;Potts+complexitypenaltyMCMCsequenceoptimization. Maincomplexcount20kvsSIJ.1description10knotresolved;scriptusesmainreport20k,notwetsuccessdenominator. SI AoverviewantibodyclusterthresholddiffersH.1;scriptavoidsit.
+
+## Paper order / core content
+intro→scalablemodel→unconditionalsamples→programmability→experimentalvalidation→discussion.
+Correlatedpolymernoise;randomlong-rangeGNNsubquadraticO(N)/O(NlogN);equivariantgeometrysynthesis;backboneconditionedsequenceandallatomsidechains;lowTquality/diversitytradeoff;hard/softcomposableconditionerswithoutretrainingbasemodelforeachconstraint(notnoextraauxiliarytraining:semanticclassifiersaretrained).
+
+## Denominators / boundaries
+- Computational100kmonomers+20kcomplexesacrossv0/v1,NOTwetsamples.
+- Antibody-antigen-likecomplex,rebuiltVHHCDRs,Fabtextprompt:computationalshapeexamples,NOTtargetantigenbindingvalidatedantibodies.
+- Massive60subunit/60kresiduecomplexcomputationalsymmetrydemo;notmanufacturedcomplex. >3kresiduesfewminutescommodityGPUclaimseparatefromsymmetryexample.
+- NoveltyPDBTMsimilarityandCATHcoverageaddresslength/databasecoveragebias;notuniversalityproof.
+- Refoldingstructurepredictoragreementiscomputational,assumesgeneralizationtonewfolds.
+- Semanticsclassificationcanbefaileddespitehighconfidence;canonicalIg/betabarrelnotalwaysachieved.Textcaptionexamplesnotreliablefreeformfunctionaldesign.
+- Wet310=268unconditional(172length100–450;96length100–950)+42semantic(36class,6topology).v0designpipeline;selectprimarilymodel likelihood,noAlphaFoldrefoldfilter.
+- First172allabovenegativecontrolreporterbuttop20Western19positive,bottom20zero;DO NOTstate172/172confirmedsolubleexpression or100%folding. Second96top10Western9.
+- PooledsplitGFP/FACS/Nanoporebacteriacell-basedproductionreporter,nottherapeuticcellfunction/animalstudy.
+- Top10%screen→7unconditionalproteins purified+CD/DSC;UNC018DSCNoSignalExtendedTable1,sonotallsevenquantTm.3conditionalpurified;10selectedtotal≈3%of310 conservativeconfirmed-notglobalestimatedsuccessrate.
+- TwoXrayUNC0798TNM,UNC2398TNO;designRMSD1.1Å/1.0Å. Resolution1.1Å/2.36Å(~2.4),differentfromRMSD. Noveltyalignqueryvs targetTMnormalizationsdifferent.
+- Conditional40/42≈95%abovecontrolreporter,not95%fullstructureorfunctionvalidated.ConditionalpurifiedTmrange64–78°C.
+- Fig5SEM018andSEM038labels/Tm(64.4/77.8)appearoppositeExtendedTable1(SEM01877.77/SEM03864.94). Scriptonlyrange64–78,avoidsIDprecision.
+- CDsecondaryfractioncorrelationR2alpha.84,beta.51;notexactfoldconfirmation.
+- Lengthnegativelyassociatedsolubility;afterlengthcorrectionnofoldingpredictoragreementcorrelation;noveltynotcorrelatedsolubility. Donotoverclaimcomputationalpredictionguaranteeswet.
+- NoactualbinderKD,celltherapyfunction,animalorclinicalefficacyinpaper.
+
+## Figure oral anchors
+Fig1polymerdiffusion/GNN/conditioner;Fig2novelty/refoldingvs length;Fig3symmetry/substructure/lettershapes;Fig4classifier/textprogrammingandmismatch;Fig5screening→selectedbiophysics/XrayandCDfractioncorrelations.
+
+## Primary background sources checked
+- Sohl-Dicksteinetal.ICML2015 https://proceedings.mlr.press/v37/sohl-dickstein15.html diffusionfundamentals.
+- Cabantousetal.NatBiotechnol2005 https://pubmed.ncbi.nlm.nih.gov/15580262/ splitGFPfundamentals.
+
+## Delivery
+Supplement-expanded 8672Hangulspokeninclheadings,41narratorparagraphs,8kminimumreachedwithoutpadding;H1/sole-narrator/appendix/title/pron/sourcefilescomplete.RootQC/renderonly.

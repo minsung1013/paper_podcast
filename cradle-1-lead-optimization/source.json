@@ -1,0 +1,18 @@
+{
+  "company": "Cradle",
+  "title": "What comes after de novo? Automated lead optimization of proteins with CRADLE-1",
+  "authors": "Eli Bixby et al.",
+  "publication_date": "2026-03-12 (provided v2 release)",
+  "version": "bioRxiv v2",
+  "venue": "bioRxiv preprint",
+  "url": "https://www.biorxiv.org/content/10.64898/2026.03.06.710001v2",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.03.06.710001v2.full.pdf",
+  "source_type": "bioRxiv preprint; not certified by peer review",
+  "company_relationship": "Cradle corporate research; company employees as authors",
+  "official_company_page": "https://www.cradle.bio/whitepaper",
+  "selection_reason": "Directly describes the company multi-model workflow and prospective measured lead optimization across protein modalities.",
+  "pdf_path": "/Users/minsung.choi/bioeu/protein/papers/cradle-1-lead-optimization.pdf",
+  "slug": "cradle-1-lead-optimization",
+  "pages": 31,
+  "sha256": "259039fb29867abf0f0fff7be9f0dc1003a141dad1754cf959ff910cff52ed54"
+}
